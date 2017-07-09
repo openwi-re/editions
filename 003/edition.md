@@ -1,4 +1,4 @@
-# Edition 002
+# Edition 003
 
 ## For release: July 9th
 
@@ -35,26 +35,24 @@ https://www.usatoday.com/story/news/world/2017/07/08/united-states-north-korea-s
 
 ### The Leaks
 
-https://wikileaks.org/vault7/#OutlawCountry NEW VAULT 7 DISCLOSURE: OUTLAWCOUNTRY, A LINUX NETWORK EXPLOIT
+https://wikileaks.org/vault7/#BothanSpy NEW VAULT 7 DISCLOSURE: BOTHANSPY, A SSH EXPLOIT
 
-https://www.forbes.com/sites/gordonkelly/2017/06/11/google-pixel-2-display-size-shape GOOGLE PIXEL: NEW SHAPE, NEW STYLE, SAME PHONE
+https://www.forbes.com/sites/gordonkelly/2017/07/04/apple-iphone-leaks-iphone-8-specs-iphone-7s-price-cost-release/#848314c7e652 NEW IPHONE 8 LEAKS: 3D SCANNING, OLED
 
-https://www.forbes.com/sites/gordonkelly/2017/05/29/apple-iphone-8-galaxy-s8-infinity-display IPHONE 8: NEW DESIGN LEAKED
+http://www.washingtontimes.com/news/2017/jul/7/rachel-maddow-fairly-convincing-fake-nsa-document-/ // FAKE LEAKS, REAL THREAT
 
 ### The Glitch
-https://area120.google.com/ Google announces its new Area120, which is reminiscent more of a startup incubator than a multibillion dollar company. Google pitches it as startups within Google. But will Googlers bite?
+[1948: LA oscillated at 50 HZ](http://gizmodo.com/before-1948-las-power-grid-was-incompatible-with-the-r-1683629042) // Why prior to 1948, the Southern California power grid operated at a frequency ten hertz lower than the rest of the nation.
 
-http://www.latimes.com/business/technology/la-fi-tn-lootcrate-struggles-20170630-htmlstory.html The struggles of Loot Crate, although not directly related to technology, are a lesson to startups as a whole: don't grow too fast.
-
-http://fortune.com/2017/06/28/amd-ai-chips-comeback/ AMD is betting big on AI with its new chip line. According to AMD CEO Lisa Su, "failure is not an option."
+[Travelling the world on $3,000 of BTC](https://www.forbes.com/sites/bishopjordan/2017/07/07/bitcoin-millionaire/#4d4ced746261) How one man, with an investment of $3,000 into Bitcoin back 2008, now travels the world on his $25,000,000 fortune.
 
 ### The Web
 
-[Who Americans Spend Their Time With](https://www.theatlas.com/charts/HJFYm4uQ-) // A fascinating study into the people that Americans spend their time with over the course of their lives.
+[Material Reddit](https://www.reddup.co/) // Ever bored of Reddit's traditional (outdated) design? You're not alone. Fortunately, Reddup is here to help.
 
-[Trump's Lies](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html) // While normally I try to avoid pieces that focus on Trump and nothing else, _Trump's Lies_ is truly an extraordinary journalistic effort. It very effectively conveys the magnitudes of Trump's deceit.
+[Hexacolorblindness.](http://www.colorhexa.com/87ceeb) // Pick any color—well, any hexadecimal color code—and see how it would appear to people with various types of colorblindness.
 
-http://www.onezoom.org/life/@Hominidae=770311?vis=spiral#x1621,y-223,w1.5756 An interactive visualization of the tree of life and genetics as a whole.
+[An incredible new markup protocol for dynamic shapes](http://ivanceras.github.io/svgbob-editor/) // Never before have SVGs been this easy. Check out this awesome new graphical tool to build SVGs without breaking a sweat.
 
 ### The Long Read
 https://theintercept.com/2017/07/08/border-sheriffs-iris-surveillance-biometrics/ The Biometric Frontier — as paper becomes increasingly obsolete, the government is turning to a new form of identification: genetic fingerprints.
