@@ -13,7 +13,7 @@ Riders bicycle past sunflowers on stage eleven of the Tour du France.
 `Chris Graythen / Getty Images`
 
 ### As You Already Know
-The GOP keeps trying to get a healthcare bill passed, but [people are seeing through it](https://www.nytimes.com/2017/07/15/health/senate-health-care-obamacare.html). Dissatisfied with Trump's international leadership, many governers are taking matters [into their own hands](https://www.nytimes.com/2017/07/15/us/trump-governors-diplomatic-missions.html). Donald Trump Jr tweeted out possibly incriminating [evidence of collusion](https://twitter.com/DonaldJTrumpJr/status/884789418455953413). And he didn't forget [page 4](https://twitter.com/DonaldJTrumpJr/status/884789839522140166). A [fire](https://www.theatlantic.com/news/archive/2017/07/honolulu-fire/533796/) broke out in a Honolulu high-rise without sprinklers. Pressure is [mounting](https://theintercept.com/2017/07/12/as-momentum-grows-to-remove-brazils-president-new-pressure-campaign-sparks-rage/) to remove Brazil's president. Maryam Mirzakhani, the first woman to win the maths' Fields Medal, has [died](http://www.bbc.com/news/science-environment-40617094). Brazil has also opened up 860,000 acres of previously-protected Amazon rainforest land to logging, mining, and farming, sparking [outrage](http://www.independent.co.uk/news/world/americas/illegal-logging-national-forest-of-jamanxim-brazil-amazon-br-163-protests-deforestation-gisele-a7842796.html).
+The GOP keeps trying to get a healthcare bill passed, but [we're disillusioned](https://www.nytimes.com/2017/07/15/health/senate-health-care-obamacare.html). Dissatisfied with Trump's international leadership, many governors are taking matters [into their own hands](https://www.nytimes.com/2017/07/15/us/trump-governors-diplomatic-missions.html). Donald Trump Jr tweeted out possibly incriminating [evidence of collusion](https://twitter.com/DonaldJTrumpJr/status/884789418455953413). And don't forget [page 4](https://twitter.com/DonaldJTrumpJr/status/884789839522140166). A [fire](https://www.theatlantic.com/news/archive/2017/07/honolulu-fire/533796/) broke out in a Honolulu high-rise without sprinklers. Pressure is [mounting](https://theintercept.com/2017/07/12/as-momentum-grows-to-remove-brazils-president-new-pressure-campaign-sparks-rage/) to remove Brazil's president. Maryam Mirzakhani, the first woman to win the maths' Fields Medal, has [died](http://www.bbc.com/news/science-environment-40617094). Brazil opened up 860,000 acres of previously-protected Amazon rainforest land to logging, mining, and farming, sparking [outrage](http://www.independent.co.uk/news/world/americas/illegal-logging-national-forest-of-jamanxim-brazil-amazon-br-163-protests-deforestation-gisele-a7842796.html).
 
 ### The Ideas
 
@@ -45,7 +45,7 @@ The GOP keeps trying to get a healthcare bill passed, but [people are seeing thr
 
 [Tokyo Street Fashion](https://www.google.com/culturalinstitute/beta/exhibit/ogKCPmGdPtB7Iw) // Watch how street fashion and culture has changed in Tokyo from 1980-2017 in Google's new *Arts and Culture* piece.
 
-[Text Manipulation Tools.](https://aiotexttools.com/) // Have text that you need to format differently? Try using AIO text tools. It may save you some time.
+[Text Manipulation Tools](https://aiotexttools.com/) // Have text that you need to format differently? Try using AIO text tools. It may save you some time.
 
 [Crossing.US](https://www.crossing.us/) // Enter a pair of names to see if any intersections in the US match those names.
 
