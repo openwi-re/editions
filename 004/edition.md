@@ -11,15 +11,15 @@ https://www.theatlantic.com/photo/2017/07/photos-of-the-week-78714/533664/#img12
 Chris Graythen / Getty
 
 ### As You Already Know
-The GOP keeps trying to get a healthcare bill passed, but [people are seeing through it](https://www.nytimes.com/2017/07/15/health/senate-health-care-obamacare.html). Dissatisfied with Trump's international leadership, many governers are taking matters [into their own hands](https://www.nytimes.com/2017/07/15/us/trump-governors-diplomatic-missions.html). Donald Trump Jr tweeted out possibly incriminating [evidence of collusion](https://twitter.com/DonaldJTrumpJr/status/884789418455953413). And he didn't forget [page 4](https://twitter.com/DonaldJTrumpJr/status/884789839522140166). Pressure is [mounting](https://theintercept.com/2017/07/12/as-momentum-grows-to-remove-brazils-president-new-pressure-campaign-sparks-rage/) to remove Brazil's president. Maryam Mirzakhani, the first woman to win the maths' Fields Medal, has [died](http://www.bbc.com/news/science-environment-40617094).
+The GOP keeps trying to get a healthcare bill passed, but [people are seeing through it](https://www.nytimes.com/2017/07/15/health/senate-health-care-obamacare.html). Dissatisfied with Trump's international leadership, many governers are taking matters [into their own hands](https://www.nytimes.com/2017/07/15/us/trump-governors-diplomatic-missions.html). Donald Trump Jr tweeted out possibly incriminating [evidence of collusion](https://twitter.com/DonaldJTrumpJr/status/884789418455953413). And he didn't forget [page 4](https://twitter.com/DonaldJTrumpJr/status/884789839522140166). A [fire](https://www.theatlantic.com/news/archive/2017/07/honolulu-fire/533796/) broke out in a Honolulu high-rise without sprinklers. Pressure is [mounting](https://theintercept.com/2017/07/12/as-momentum-grows-to-remove-brazils-president-new-pressure-campaign-sparks-rage/) to remove Brazil's president. Maryam Mirzakhani, the first woman to win the maths' Fields Medal, has [died](http://www.bbc.com/news/science-environment-40617094).
 
 ### The Ideas
 
-[What’s Broken—and What’s Still Working—in American Politics](https://www.theatlantic.com/politics/archive/2017/07/checks-balances/533511/) // Qatar, which provides 25% of the worlds helium, shook up the market after it brought its new plants online. A crisis in the country, however, threatens to cut off this supply.
+[What’s Broken—and What’s Still Working—in American Politics](https://www.theatlantic.com/politics/archive/2017/07/checks-balances/533511/) // The current state of politics in the United States is not to be admired. The fool in the White House is testing its government's checks and balances. And the checks and balances have, for the most part, succeeded.
 
-[North Korea Needs Nukes Because of its Religion](http://foreignpolicy.com/2017/07/07/north-korea-needs-nukes-because-of-its-religion/) // This timely article describes why North Korea can't stop its pursuit of nuclear weapons without sacrificing its national identity.
+[What Goes Up](http://epicmagazine.com/whatgoesup/) // How a daredevil helicopter pilot changed the mainstream media forever.
 
-[My aging parents smuggle medical marijuana](http://www.salon.com/2017/07/08/my-aging-parents-smuggle-medical-marijuana/) // A narrative-based story about an old couple who, after an unlikely but successful fight against cancer, took an alternative approach to staying alive.
+[Ted Cruz Says His Health Care Plan Protects the Sick. That’s Nonsense.](http://www.slate.com/blogs/moneybox/2017/07/14/ted_cruz_claims_his_health_care_plan_protects_sick_americans_nope.html) // It seems that Alternative Facts® have found their way outside of the White House, and have now infiltrated the high levels of the GOP.
 
 ### The Leaks
 
