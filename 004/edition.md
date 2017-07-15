@@ -39,7 +39,7 @@ The GOP keeps trying to get a healthcare bill passed, but [we're disillusioned](
 
 [Giant Barcodes](https://www.youtube.com/watch?v=aMe-xF2sRd4) // Why are there massive barcodes strewn about deserts in the United States? They are remnants of cold-war aerial surveillance technologies.
 
-[How a White-hat Hacker Took Control of All .io Domains](https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/) // As the internet as grown, it has become increasingly reliant on centralized systems. The discovery of this DNS security vulnerability highlights the flaws that plague the systems at the core of the internet.
+[How a White-hat Hacker Took Control of All .io Domains](https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/) // As the internet has grown, it has become increasingly reliant on centralized systems. The discovery of this DNS security vulnerability highlights the flaws that plague the systems at the core of the internet.
 
 ### The Web
 
