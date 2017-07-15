@@ -17,7 +17,7 @@ The GOP keeps trying to get a healthcare bill passed, but [we're disillusioned](
 
 ### The Ideas
 
-[What’s Broken—and What’s Still Working—in American Politics](https://www.theatlantic.com/politics/archive/2017/07/checks-balances/533511/) // The current state of politics in the United States is not to be admired. The fool in the White House is testing its government's checks and balances. And the checks and balances have, for the most part, succeeded.
+[What’s Broken—and What’s Still Working—in American Politics](https://www.theatlantic.com/politics/archive/2017/07/checks-balances/533511/) // The current state of politics in the United States is nothing to be admired. The fool in the White House is testing its government's checks and balances. But the checks and balances have, for the most part, succeeded.
 
 [I don’t believe Donald Trump Jr., and neither should you](https://www.vox.com/policy-and-politics/2017/7/14/15971836/dont-believe-trump-jr) // "Credibility is a finite resource, and his is below zero."
 
@@ -35,7 +35,7 @@ The GOP keeps trying to get a healthcare bill passed, but [we're disillusioned](
 `The Washington Post`
 
 ### The Glitch
-[Tech Tourism: a History of Silicon Valley](http://gizmodo.com/before-1948-las-power-grid-was-incompatible-with-the-r-1683629042) // Why prior to 1948, the Southern California power grid operated at a frequency ten hertz lower than the rest of the nation.
+[Tech Tourism: a History of Silicon Valley](http://gizmodo.com/before-1948-las-power-grid-was-incompatible-with-the-r-1683629042) // Silicon Valley has long been known as a hub of innovation. Indeed, this reputation has spread wide enough to spark curiosity around the world and establish the valley as a new hub of tourism.
 
 [Giant Barcodes](https://www.youtube.com/watch?v=aMe-xF2sRd4) // Why are there massive barcodes strewn about deserts in the United States? They are remnants of cold-war aerial surveillance technologies.
 
