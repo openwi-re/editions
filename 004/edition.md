@@ -6,7 +6,9 @@ _This document is not finalized until the aforementioned date._
 
 ### Photo
 
-https://www.theatlantic.com/photo/2017/07/photos-of-the-week-78714/533664/#img12Riders bicycle past sunflowers on stage eleven of the Tour du France.
+https://www.theatlantic.com/photo/2017/07/photos-of-the-week-78714/533664/#img12
+![tourdefrance.jpg](tourdefrance.jpg)
+Riders bicycle past sunflowers on stage eleven of the Tour du France.
 
 `Chris Graythen / Getty Images`
 
