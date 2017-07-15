@@ -23,11 +23,14 @@ The GOP keeps trying to get a healthcare bill passed, but [people are seeing thr
 
 ### The Leaks
 
-https://wikileaks.org/vault7/#BothanSpy NEW VAULT 7 DISCLOSURE: BOTHANSPY, A SSH EXPLOIT
+[NEW VAULT 7 DISCLOSURE: HIGHRISE, AN ANDROID-SMS EXPLOIT](https://wikileaks.org/vault7/#Highrise)
+WikiLeaks
 
-https://www.forbes.com/sites/gordonkelly/2017/07/04/apple-iphone-leaks-iphone-8-specs-iphone-7s-price-cost-release/#848314c7e652 NEW IPHONE 8 LEAKS: 3D SCANNING, OLED
+[TRUMP JR TWEETS OUT POSSIBLY INCRIMINATING EMAIL CHAIN](https://twitter.com/DonaldJTrumpJr/status/884789418455953413)
+Twitter: @DonaldJTrumpJr
 
-http://www.washingtontimes.com/news/2017/jul/7/rachel-maddow-fairly-convincing-fake-nsa-document-/ // FAKE LEAKS, REAL THREATS
+[VERIZON CUSTOMER DATA LEAKED](https://www.washingtonpost.com/business/economy/verizon-confirms-data-of-6-million-customers-was-leaked/2017/07/13/f9340746-67d4-11e7-8eb5-cbccc2e7bfbf_story.html)
+The Washington Post
 
 ### The Glitch
 [1948: LA oscillated at 50 HZ](http://gizmodo.com/before-1948-las-power-grid-was-incompatible-with-the-r-1683629042) // Why prior to 1948, the Southern California power grid operated at a frequency ten hertz lower than the rest of the nation.
