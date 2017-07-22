@@ -43,14 +43,14 @@ Spicer is [out](https://www.nytimes.com/2017/07/21/us/politics/sean-spicer-resig
 
 ### The Web
 
-[Tokyo Street Fashion](https://www.google.com/culturalinstitute/beta/exhibit/ogKCPmGdPtB7Iw) // Watch how street fashion and culture has changed in Tokyo from 1980-2017 in Google's new *Arts and Culture* piece.
+[153k Ether Stolen in Parity Multi-Sig Attack](https://etherscan.io/address/0xb3764761e297d6f121e79c32a65829cd1ddb4d32) // Watch out. Online theft no longer means pirating movies.
 
-[Text Manipulation Tools](https://aiotexttools.com/) // Have text that you need to format differently? Try using AIO text tools. It may save you some time.
+[Apple Machine Learning Journal](https://machinelearning.apple.com/) // Open information is good, and Apple is making a big step towards transparency in innovation with its decision to publish many of its machine learning findings in its new journal.
 
-[Crossing.US](https://www.crossing.us/) // Enter a pair of names to see if any intersections in the US match those names.
+[Antipodes Map](https://www.antipodesmap.com/) // Have you ever wondered what would happen if you dug a tunnel through the center of the Earth?
 
 ### The Long Read
-http://epicmagazine.com/whatgoesup/ What Goes Up — how a daredevil helicopter pilot changed the mainstream media forever.
+https://longreads.com/2017/07/20/how-to-get-away-with-spying-for-the-enemy/ How to Get Away with Spying for the Enemy — a cold war tale, shockingly relevant to today.
 
 ### Actionable
-https://www.battleforthenet.com/ July 12 may have been Net Neutrality day, but the fight is far from over. Don't let anyone censor your internet connection. Fight for the internet.
+https://www.givedirectly.org/ Give directly. It's the most efficient way to make an impact.
