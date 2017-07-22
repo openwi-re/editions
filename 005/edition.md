@@ -25,21 +25,21 @@ Spicer is [out](https://www.nytimes.com/2017/07/21/us/politics/sean-spicer-resig
 
 ### The Leaks
 
-[NEW VAULT 7 DISCLOSURE: HIGHRISE, AN ANDROID-SMS EXPLOIT](https://wikileaks.org/vault7/#Highrise)
+[NEW VAULT 7 DISCLOSURE: UCL / RAYTHEON](https://wikileaks.org/vault7/#UCL / Raytheon)
 `WikiLeaks`
 
-[TRUMP JR TWEETS OUT POSSIBLY INCRIMINATING EMAIL CHAIN](https://twitter.com/DonaldJTrumpJr/status/884789418455953413)
-`Twitter: @DonaldJTrumpJr`
+[MORE IPHONE 8 LEAKS](https://www.forbes.com/sites/ewanspence/2017/07/18/apple-iphone8-touch-id-facial-recognition-problem/#1723686c228f)
+`Forbes`
 
-[VERIZON CUSTOMER DATA LEAKED](https://www.washingtonpost.com/business/economy/verizon-confirms-data-of-6-million-customers-was-leaked/2017/07/13/f9340746-67d4-11e7-8eb5-cbccc2e7bfbf_story.html)
-`The Washington Post`
+[TRUMP'S MIND, LEAKED IN MORE TWEETS](http://www.businessinsider.com/trump-tweets-leaks-mueller-investigation-russia-washington-post-2017-7)
+`Business Insider`
 
 ### The Glitch
-[Tech Tourism: a History of Silicon Valley](http://gizmodo.com/before-1948-las-power-grid-was-incompatible-with-the-r-1683629042) // Silicon Valley has long been known as a hub of innovation. Indeed, this reputation has spread wide enough to spark curiosity around the world and establish the valley as a new hub of tourism.
+[Restaurant automation? Not yet.](http://www.atlasobscura.com/articles/automat-20th-century-waiterless-restaurants) // A fascinating tale of the rise—and quick fall—of the waiterless restaurant. The lesson: not everything can be automated.
 
-[Giant Barcodes](https://www.youtube.com/watch?v=aMe-xF2sRd4) // Why are there massive barcodes strewn about deserts in the United States? They are remnants of cold-war aerial surveillance technologies.
+[Lyft Tries to Ditch The Driver](https://techcrunch.com/2017/07/21/lyft-launches-a-new-self-driving-division-called-level-5-will-develop-its-own-self-driving-system/) // The Uber-rival Lyft has launched a new self-driving vehicle division. Competition is good, but is too much work being replicated?
 
-[How a White-hat Hacker Took Control of All .io Domains](https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/) // As the internet has grown, it has become increasingly reliant on centralized systems. The discovery of this DNS security vulnerability highlights the flaws that plague the systems at the core of the internet.
+[Hyperloop Receives 'Verbal Approval'. Except That's Not Approval.](https://www.wired.com/story/infrastructure-hyperloop-nope/) // The Hyperloop wants to bore from New York to DC and make the entire trip take only 29 minutes. There's one problem, though: 'verbal approval' can't be taken as approval itself.
 
 ### The Web
 
