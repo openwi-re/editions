@@ -39,7 +39,7 @@ John McCain unexpectedly voted [against](https://www.nytimes.com/2017/07/27/us/p
 
 [The Roomba Ain't No Spy](http://gizmodo.com/roomba-ceo-swears-that-he-will-never-sell-maps-of-users-1797339735) // iRobot's CEO has promised that the company will never sell confidential data about its customer's homes. But some remain skeptical.
 
-[The iPhone 8 and the Galaxy Note 8 Leak Online](https://www.androidheadlines.com/2017/07/supposed-front-panels-of-galaxy-note-8-iphone-8-leak-online.html) // The font panels of the iPhone 8 and the Galaxy Note 8 have leaked online, and they both seem to be going in the same borderless direction.
+[The iPhone 8 and the Galaxy Note 8 Leak Online](https://www.androidheadlines.com/2017/07/supposed-front-panels-of-galaxy-note-8-iphone-8-leak-online.html) // The front panels of the iPhone 8 and the Galaxy Note 8 have leaked online, and they both seem to be going in the same borderless direction.
 
 ### The Web
 
