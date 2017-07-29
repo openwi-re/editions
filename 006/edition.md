@@ -25,29 +25,29 @@ John McCain unexpectedly voted [against](https://www.nytimes.com/2017/07/27/us/p
 
 ### The Leaks
 
-[NEW VAULT 7 DISCLOSURE: UCL / RAYTHEON](https://wikileaks.org/vault7/#UCL / Raytheon)
+[NEW VAULT 7 DISCLOSURE: IMPERIAL, A MAC EXPLOIT](https://wikileaks.org/vault7/#Imperial)
 `WikiLeaks`
 
-[MORE IPHONE 8 LEAKS](https://www.forbes.com/sites/ewanspence/2017/07/18/apple-iphone8-touch-id-facial-recognition-problem/#1723686c228f)
-`Forbes`
+[COMPLAINING ABOUT LEAKS, SCARAMUCCI LEAKS HIMSELF](http://www.newyorker.com/news/ryan-lizza/anthony-scaramucci-called-me-to-unload-about-white-house-leakers-reince-priebus-and-steve-bannon)
+`The New Yorker`
 
-[TRUMP'S MIND, LEAKED IN MORE TWEETS](http://www.businessinsider.com/trump-tweets-leaks-mueller-investigation-russia-washington-post-2017-7)
-`Business Insider`
+[ALL OF SWEDEN'S PERSONAL INFORMATION](http://www.independent.co.uk/life-style/gadgets-and-tech/news/data-leak-swedish-government-prime-minister-stefan-lofven-election-latest-a7863186.html)
+`Independent`
 
 ### The Glitch
-[Restaurant automation? Not yet.](http://www.atlasobscura.com/articles/automat-20th-century-waiterless-restaurants) // A fascinating tale of the rise—and quick fall—of the waiterless restaurant. The lesson: not everything can be automated.
+[Apple Concedes to China](http://www.businessinsider.com/r-apple-is-removing-vpn-services-from-china-app-store-providers-2017-7) // In a monumental but widely unpopular decision, Apple has decided to remove all VPN apps from its China app store. This makes China's internet monitoring and censorship program much more difficult to circumvent.
 
-[Lyft Tries to Ditch The Driver](https://techcrunch.com/2017/07/21/lyft-launches-a-new-self-driving-division-called-level-5-will-develop-its-own-self-driving-system/) // The Uber-rival Lyft has launched a new self-driving vehicle division. Competition is good, but is too much work being replicated?
+[The Roomba Ain't No Spy](http://gizmodo.com/roomba-ceo-swears-that-he-will-never-sell-maps-of-users-1797339735) // iRobot's CEO has promised that the company will never sell confidential data about its customer's homes. But some remain skeptical.
 
-[Hyperloop Receives 'Verbal Approval'. Except That's Not Approval.](https://www.wired.com/story/infrastructure-hyperloop-nope/) // The Hyperloop wants to bore from New York to DC and make the entire trip take only 29 minutes. There's one problem, though: 'verbal approval' can't be taken as approval itself.
+[The iPhone 8 and the Galaxy Note 8 Leak Online](https://www.androidheadlines.com/2017/07/supposed-front-panels-of-galaxy-note-8-iphone-8-leak-online.html) // The font panels of the iPhone 8 and the Galaxy Note 8 have leaked online, and they both seem to be going in the same borderless direction.
 
 ### The Web
 
-[153k Ether Stolen in Parity Multi-Sig Attack](https://etherscan.io/address/0xb3764761e297d6f121e79c32a65829cd1ddb4d32) // Watch out. Online theft no longer means pirating movies.
+[WPA/WPA2 Cracker](https://github.com/brannondorsey/wifi-cracking) // Watch out. Your WiFi isn't as safe as you think it is.
 
-[Apple Machine Learning Journal](https://machinelearning.apple.com/) // Open information is good, and Apple is making a big step towards transparency in innovation with its decision to publish many of its machine learning findings in its new journal.
+[A Decaying Digital Artifact](https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/) // The Million Dollar Homepage, which sold each of its million pixels to advertisers at $1 each, is no longer the commercial hub it once was. It's not a digital artifact.
 
-[Antipodes Map](https://www.antipodesmap.com/) // Have you ever wondered what would happen if you dug a tunnel through the center of the Earth?
+[Lightning Map](http://www.lightningmaps.org/#m=sat;r=0;t=3;s=0;o=0;b=;n=0;y=44.894;x=-28.7598;z=3;d=2;dl=2;dc=0;) // Watch lightning as it strikes in real-time around the world.
 
 ### The Long Read
 https://www.bloomberg.com/features/2017-hijacking-of-brillante-virtuoso/ The story of a massive oil tanker, $100 million in cargo, minimal defenses against pirates, an 18th century insurance model, and a crew of only 26.
