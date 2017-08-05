@@ -17,11 +17,11 @@ Venezuela's chief prosecutor and Maduro-critic has been [ousted](https://www.was
 
 ### The Ideas
 
-[How Intelligence Leads to Stereotyping](https://www.theatlantic.com/science/archive/2017/07/intelligent-people-are-more-likely-to-stereotype/535158/) // Racism and bigotry is rarely associated with intelligence. A new study in *Journal of Experimental Psychology: General* suggests that the opposite may be true.
+[The Lost Cause Rides Again](https://www.theatlantic.com/entertainment/archive/2017/08/no-confederate/535512/) // Ta-Nehisi Coates' latest Atlantic piece explores the reception—and implication—of HBO's upcoming show. Its premise: *what if the Confederacy weren't defeated?*
 
-[Republicans Got Good At Symbolic Repeals of Obamacare, but Flinched When Faced With Reality](https://theintercept.com/2017/07/28/republicans-got-good-at-symbolic-repeals-of-obamacare-but-flinched-when-faced-with-reality/) // *Wait, asked Senate Republicans, what if we pass something — and it actually becomes law? It was too much to contemplate.* A side effect of grounding one's identity in being an opposition party.
+[Impeachment-O-Meter](http://www.slate.com/blogs/the_slatest/2017/08/04/trump_impeachment_chances_golf_vacation_edition.html) // According to Slate, Trump has a 60% chance of being impeached. But removal is another matter altogether.
 
-[Yes, U.S. Scientists Edited an Embryo’s Genes, but Super-Babies Are a Ways Away](http://www.slate.com/blogs/future_tense/2017/07/28/u_s_scientists_use_crispr_to_edit_embryo_s_genes.html) // Scientists in Portland, Oregon successfully edited the genes of a human embryo. We're still a long way away from superbabies, though.
+[Gene Editing for ‘Designer Babies’? Highly Unlikely, Scientists Say](https://www.nytimes.com/2017/08/04/science/gene-editing-embryos-designer-babies.html) // Like last week's 3rd *The Ideas* piece, this one tackles designer babies. And they remain unlikely.
 
 ### The Leaks
 
