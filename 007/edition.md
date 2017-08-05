@@ -35,11 +35,11 @@ Venezuela's chief prosecutor and Maduro-critic has been [ousted](https://www.was
 `The Washington Post`
 
 ### The Glitch
-[Apple Concedes to China](http://www.businessinsider.com/r-apple-is-removing-vpn-services-from-china-app-store-providers-2017-7) // In a monumental but widely unpopular decision, Apple has decided to remove all VPN apps from its China app store. This makes China's internet monitoring and censorship program much more difficult to circumvent.
+[Where a Cellular Apple Watch Would Be Great](https://techcrunch.com/2017/08/05/all-the-major-cases-where-an-lte-enabled-apple-watch-would-be-great/?ncid=mobilenavtrend) // The applications of smart watches are somewhat limited. But their cellular connectivity may change that.
 
-[The Roomba Ain't No Spy](http://gizmodo.com/roomba-ceo-swears-that-he-will-never-sell-maps-of-users-1797339735) // iRobot's CEO has promised that the company will never sell confidential data about its customer's homes. But some remain skeptical.
+[Google Announces Stamp to Stomp on Snap](https://www.digitaltrends.com/mobile/google-snapchat-discover-stamp/) // Google has announced it will launch a new Snapchat "competitor": Stamp. The catch: it replicates only one feature (and that's all it needs to).
 
-[The iPhone 8 and the Galaxy Note 8 Leak Online](https://www.androidheadlines.com/2017/07/supposed-front-panels-of-galaxy-note-8-iphone-8-leak-online.html) // The front panels of the iPhone 8 and the Galaxy Note 8 have leaked online, and they both seem to be going in the same borderless direction.
+[80 New Emojis](https://www.cnet.com/news/new-emoji-candidates-for-2018-unicode-11/) // 80 new emojis have been drafted as possible release candidates for Unicode 11.0.
 
 ### The Web
 
