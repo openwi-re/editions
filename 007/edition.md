@@ -43,11 +43,11 @@ Venezuela's chief prosecutor and Maduro-critic has been [ousted](https://www.was
 
 ### The Web
 
-[WPA/WPA2 Cracker](https://github.com/brannondorsey/wifi-cracking) // Watch out. Your WiFi isn't as safe as you think it is.
+[Ten Years Ago](http://tenyearsago.io/) // See what the internet was doing ten years ago.
 
-[A Decaying Digital Artifact](https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/) // The Million Dollar Homepage, which sold each of its million pixels to advertisers at $1 each, is no longer the commercial hub it once was. It's now a digital artifact.
+[The Public Domain Review](http://publicdomainreview.org/) // Analysis and reviews of publications recently released into the public domain.
 
-[Lightning Map](http://www.lightningmaps.org/#m=sat;r=0;t=3;s=0;o=0;b=;n=0;y=44.894;x=-28.7598;z=3;d=2;dl=2;dc=0;) // Watch lightning as it strikes in real-time around the world.
+[Images of Change](https://climate.nasa.gov/images-of-change?id=626#626-mount-pinatubo-philippines,-erupted-26-years-ago) // Look at the before-and-after shots of late 20th and early 21st century climate change. This politically-salient NASA project will leave you speechless.
 
 ### The Long Read
 https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/ Smartphones defined the iGeneration. But have they destroyed it?
