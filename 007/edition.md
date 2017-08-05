@@ -50,7 +50,7 @@ Venezuela's chief prosecutor and Maduro-critic has been [ousted](https://www.was
 [Lightning Map](http://www.lightningmaps.org/#m=sat;r=0;t=3;s=0;o=0;b=;n=0;y=44.894;x=-28.7598;z=3;d=2;dl=2;dc=0;) // Watch lightning as it strikes in real-time around the world.
 
 ### The Long Read
-https://www.bloomberg.com/features/2017-hijacking-of-brillante-virtuoso/ The story of a massive oil tanker, $100 million in cargo, minimal defenses against pirates, an 18th century insurance model, and a crew of only 26.
+https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/ Smartphones defined the iGeneration. But have they destroyed it?
 
 ### Actionable
 https://www.givedirectly.org/ Give directly. It's the most efficient way to make an impact.
