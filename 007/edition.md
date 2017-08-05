@@ -1,6 +1,6 @@
-# Edition 004
+# Edition 007
 
-## For release: July 29th
+## For release: August 5th
 
 _This document is not finalized until the aforementioned date._
 
@@ -17,7 +17,7 @@ Venezuela's chief prosecutor and Maduro-critic has been [ousted](https://www.was
 
 ### The Ideas
 
-[The Lost Cause Rides Again](https://www.theatlantic.com/entertainment/archive/2017/08/no-confederate/535512/) // Ta-Nehisi Coates' latest Atlantic piece explores the reception—and implication—of HBO's upcoming show. Its premise: *what if the Confederacy weren't defeated?*
+[The Lost Cause Rides Again](https://www.theatlantic.com/entertainment/archive/2017/08/no-confederate/535512/) // Ta-Nehisi Coates' latest Atlantic piece explores the reception—and implication—of HBO's upcoming show. Its premise: *what if the Confederacy hadn't been defeated?*
 
 [Impeachment-O-Meter](http://www.slate.com/blogs/the_slatest/2017/08/04/trump_impeachment_chances_golf_vacation_edition.html) // According to Slate, Trump has a 60% chance of being impeached. But removal is another matter altogether.
 
