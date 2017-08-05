@@ -25,14 +25,14 @@ Venezuela's chief prosecutor and Maduro-critic has been [ousted](https://www.was
 
 ### The Leaks
 
-[NEW VAULT 7 DISCLOSURE: IMPERIAL, A MAC EXPLOIT](https://wikileaks.org/vault7/#Imperial)
+[NEW VAULT 7 DISCLOSURE: DUMBO, A WINDOWS WEBCAM EXPLOIT](https://wikileaks.org/vault7/#Dumbo)
 `WikiLeaks`
 
-[COMPLAINING ABOUT LEAKS, SCARAMUCCI LEAKS HIMSELF](http://www.newyorker.com/news/ryan-lizza/anthony-scaramucci-called-me-to-unload-about-white-house-leakers-reince-priebus-and-steve-bannon)
-`The New Yorker`
+[HACKERS ARE HUMANS TOO (PARTIAL)](https://theintercept.com/document/2017/08/02/cse-hackers-are-humans-too-partial/)
+`The Intercept`
 
-[ALL OF SWEDEN'S PERSONAL INFORMATION](http://www.independent.co.uk/life-style/gadgets-and-tech/news/data-leak-swedish-government-prime-minister-stefan-lofven-election-latest-a7863186.html)
-`Independent`
+[TRUMP PHONE CALL TRANSCRIPTS](https://www.washingtonpost.com/graphics/2017/politics/australia-mexico-transcripts/)
+`The Washington Post`
 
 ### The Glitch
 [Apple Concedes to China](http://www.businessinsider.com/r-apple-is-removing-vpn-services-from-china-app-store-providers-2017-7) // In a monumental but widely unpopular decision, Apple has decided to remove all VPN apps from its China app store. This makes China's internet monitoring and censorship program much more difficult to circumvent.
