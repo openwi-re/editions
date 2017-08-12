@@ -50,7 +50,7 @@ Birth control is now [available](http://wate.com/2017/08/03/birth-control-availa
 [Time.gif](https://hookrace.net/blog/time.gif/) // Images, though far from sentient, are beginning to be dynamic themselves.
 
 ### The Long Read
-https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/ Smartphones defined the iGeneration. But have they destroyed it?
+http://reprints.longform.org/angels-demons "On June 4, 1989, the bodies of Jo, Michelle and Christe were found floating in Tampa Bay. This is the story of the murders, their aftermath, and the handful of people who kept faith amid the unthinkable."
 
 ### Actionable
 https://www.givedirectly.org/ Give directly. It's the most efficient way to make an impact.
