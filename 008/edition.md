@@ -25,14 +25,14 @@ Birth control is now [available](http://wate.com/2017/08/03/birth-control-availa
 
 ### The Leaks
 
-[NEW VAULT 7 DISCLOSURE: DUMBO, A WINDOWS WEBCAM EXPLOIT](https://wikileaks.org/vault7/#Dumbo)
+[NEW VAULT 7 DISCLOSURE: COUCHPOTATO, A VIDEO STREAM EXPLOIT](https://wikileaks.org/vault7/#CouchPotato)
 `WikiLeaks`
 
-[HACKERS ARE HUMANS TOO (PARTIAL)](https://theintercept.com/document/2017/08/02/cse-hackers-are-humans-too-partial/)
+['EXTREME VETTING' PROPOSAL](https://theintercept.com/document/2017/08/07/hsi-extreme-vetting-industry-day-presentation/)
 `The Intercept`
 
-[TRUMP PHONE CALL TRANSCRIPTS](https://www.washingtonpost.com/graphics/2017/politics/australia-mexico-transcripts/)
-`The Washington Post`
+[JARED KUSHNER INTERN TALK](https://www.wired.com/story/jared-kushner-leak-full-audio/)
+`WIRED`
 
 ### The Glitch
 [Where a Cellular Apple Watch Would Be Great](https://techcrunch.com/2017/08/05/all-the-major-cases-where-an-lte-enabled-apple-watch-would-be-great/?ncid=mobilenavtrend) // The applications of smart watches are somewhat limited. But their cellular connectivity may change that.
