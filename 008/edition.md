@@ -35,19 +35,19 @@ Birth control is now [available](http://wate.com/2017/08/03/birth-control-availa
 `WIRED`
 
 ### The Glitch
-[Where a Cellular Apple Watch Would Be Great](https://techcrunch.com/2017/08/05/all-the-major-cases-where-an-lte-enabled-apple-watch-would-be-great/?ncid=mobilenavtrend) // The applications of smart watches are somewhat limited. But their cellular connectivity may change that.
+[The World In Which IPV6 Was a Good Design](http://apenwarr.ca/log/?m=201708#10) // IPV6 hasn't fully taken hold yet. But it's coming soon. But there are flaws in its design and implementation which make the protocol much less attractive than it originally was.
 
-[Google Announces Stamp to Stomp on Snap](https://www.digitaltrends.com/mobile/google-snapchat-discover-stamp/) // Google has announced it will launch a new Snapchat "competitor": Stamp. The catch: it replicates only one feature (and that's all it needs to).
+[Ad-Blocking is Under Attack](https://blog.adguard.com/en/ad-blocking-is-under-attack/) // Precedent is being set, and anyone who cares about their agency over the content they consume should be concerned.
 
-[80 New Emojis](https://www.cnet.com/news/new-emoji-candidates-for-2018-unicode-11/) // 80 new emojis have been drafted as possible release candidates for Unicode 11.0.
+[Walt Disney's Netflix](https://thewaltdisneycompany.com/walt-disney-company-acquire-majority-ownership-bamtech/) // Disney is going to pull its content from Netflix, and launch its own streaming service instead.
 
 ### The Web
 
-[Ten Years Ago](http://tenyearsago.io/) // See what the internet was doing ten years ago.
+[Is The Stock Market Going to Crash?](https://isthestockmarketgoingtocrash.com/) // I don't know, but maybe this website does?
 
-[The Public Domain Review](http://publicdomainreview.org/) // Analysis and reviews of publications recently released into the public domain.
+[Encom Boardroom](https://www.robscanlon.com/encom-boardroom/) // An HTML5 version of the Tron boardroom interface.
 
-[Images of Change](https://climate.nasa.gov/images-of-change?id=626#626-mount-pinatubo-philippines,-erupted-26-years-ago) // Look at the before-and-after shots of late 20th and early 21st century climate change. This politically-salient NASA project will leave you speechless.
+[Time.gif](https://hookrace.net/blog/time.gif/) // Images, though far from sentient, are beginning to be dynamic themselves.
 
 ### The Long Read
 https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/ Smartphones defined the iGeneration. But have they destroyed it?
