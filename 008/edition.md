@@ -19,7 +19,7 @@ Birth control is now [available](http://wate.com/2017/08/03/birth-control-availa
 
 [Are There Black 'Queen Bees'?](https://www.theatlantic.com/business/archive/2017/08/black-queen-bees-women-khazan/536391/) // In the wake of the controversial Google memo, Valerie Greenaway tackles gender in her thoughtful new *Atlantic* piece.
 
-[The Battle for Venezuela And Its Oil](https://theintercept.com/2017/08/12/the-battle-for-venezuela-and-its-oil/) // Jeremy Scahill thoughtfully deconstructs the Venezuelan crisis with an eye towards the foreign powers that intervened in the nation's politics.
+[The Battle for Venezuela And Its Oil](https://theintercept.com/2017/08/12/the-battle-for-venezuela-and-its-oil/) // Jeremy Scahill deconstructs the Venezuelan crisis with an eye towards the foreign powers that intervened in the nation's politics.
 
 [What a Fraternity Hazing Death Revealed About the Painful Search for an Asian-American Identity](https://www.nytimes.com/2017/08/09/magazine/what-a-fraternity-hazing-death-revealed-about-the-painful-search-for-an-asian-american-identity.html?source=longreads&_r=0) // Fraternities have been associated with both camaraderie, identity, and trouble. What does one death reveal about the culture?
 
