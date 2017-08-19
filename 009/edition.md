@@ -23,10 +23,12 @@ The Illinois State Senate passed a [measure](http://fox2now.com/2017/08/15/illin
 
 ### The Leaks
 
-[VAULT 7 DISCLOSURE: ARCHIMEDES, A LAN EXPLOIT](https://wikileaks.org/vault7/#Archimedes)
+[`VAULT 7 DISCLOSURE: ARCHIMEDES, A LAN EXPLOIT`](https://wikileaks.org/vault7/#Archimedes)
+
 `WikiLeaks`
 
-[GAME OF THRONES: EPISODE 4, SEASON 7](https://www.theverge.com/2017/8/4/16094090/game-of-thrones-season-7-episode-4-leak)
+[`GAME OF THRONES: EPISODE 4, SEASON 7`](https://www.theverge.com/2017/8/4/16094090/game-of-thrones-season-7-episode-4-leak)
+
 `The Verge`
 
 ### The Glitch
