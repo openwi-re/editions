@@ -40,9 +40,9 @@ The continental United States witnessed its first total solar [eclipse](http://w
 ### The Glitch
 [Google Built a Fake City for Its Self-Driving Cars](http://www.slate.com/blogs/future_tense/2017/08/25/google_affiliated_waymo_built_a_fake_city_in_california_to_test_its_self.html) // Driverless cars aren't quite ready to be deployed to the streets of major cities. So Google did what any self-respecting major tech company would do: it built its own city.
 
-[Google Releases Android 8: Oreo](https://www.android.com/versions/oreo-8-0/) // Android 8 promises to bring better performance, in-app password management, "picture-in-picture" mode, notification dots, and better security.
-
 [Let Consumers Sue Companies](https://www.nytimes.com/2017/08/22/opinion/let-consumers-sue-companies.html) // Mandatory arbitration clauses prevent consumers from joining group lawsuits. This shouldn't be legal.
+
+[Google Releases Android 8: Oreo](https://www.android.com/versions/oreo-8-0/) // Android 8 promises to bring better performance, in-app password management, "picture-in-picture" mode, notification dots, and better security.
 
 ### The Web
 
