@@ -42,15 +42,15 @@ North Korea says it now has a [hydrogen bomb](http://www.reuters.com/article/us-
 
 [On internet privacy, be very afraid](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/) // In the United States, the threat posed by digital surveillance—corporate, government, or otherwise—may not be immediate or tangible now, but Bruce Schneier suggests that may soon change.
 
-[Google Releases Android 8: Oreo](https://www.android.com/versions/oreo-8-0/) // Android 8 promises to bring better performance, in-app password management, "picture-in-picture" mode, notification dots, and better security.
+[Rust 1.20 Released](https://blog.rust-lang.org/2017/08/31/Rust-1.20.html) // The disruptively popular programming language has reached its next exciting iteration. It's faster and more secure than ever.
 
 ### The Web
 
-[Windy](https://www.windy.com/?33.119,-78.926,5) // Watch where the wind blows.
+[Ancient Earth](http://dinosaurpictures.org/ancient-earth/#600) // Explore earth 600 million years ago.
 
-[The Best Time to Visit Any City](https://championtraveler.com/travel-weather-map/) // This tool uses historical weather data to calculate the best time to visit any city.
+[Gradient World](https://gradient.world/) // Build color gradients with biological underpinnings.
 
-[How Google Will Collapse](https://hackernoon.com/how-google-collapsed-b6ffa82198ee) // This thoughtful piece highlights the weaknesses in Google's business model, and the companies poised to take the search giant down.
+[Flood Prediction Tools](http://water.weather.gov/ahps2/index.php) // This NOAA tool helps you predict flooding in your area and minimize its potential impact on your home.
 
 ### The Long Read
 https://www.reuters.com/investigates/special-report/usa-taser-911/ "In the most detailed study ever of fatalities and litigation involving police use of stun guns, Reuters finds more than 150 autopsy reports citing Tasers as a cause or contributor to deaths across America. Behind the fatalities is a sobering reality: Many who die are among society’s vulnerable – unarmed, in psychological distress and seeking help."
