@@ -27,15 +27,15 @@ North Korea says it now has a [hydrogen bomb](http://www.reuters.com/article/us-
 
 [`ANGELFIRE: A CIA WINDOWS EXPLOIT SUITE`](https://wikileaks.org/vault7/#Angelfire)
 
-`WikiLeaks`
+*`WikiLeaks`*
 
 [`700 MILLION EMAIL ADDRESSES`](https://www.theguardian.com/technology/2017/aug/30/spambot-leaks-700m-email-addresses-huge-data-breach-passwords)
 
-`The Guardian`
+*`The Guardian`*
 
 [`TIGERSWAN INTERNAL DOCUMENTS`](https://theintercept.com/document/2017/08/26/internal-tigerswan-situation-report-2017-05-11/)
 
-`The Intercept`
+*`The Intercept`*
 
 ### The Glitch
 [Google Critic Ousted from Think Tank Funded by the Tech Giant](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.htmll) // Google has unprecedented control over the world: not only is their search engine the gatekeeper to the world's information, their [political reach](http://gizmodo.com/yes-google-uses-its-power-to-quash-ideas-it-doesn-t-li-1798646437) is almost unparalleled. And it attacked this [Google-critic](https://www.washingtonpost.com/news/posteverything/wp/2017/08/31/i-criticized-google-it-got-me-fired-thats-how-corporate-power-works/?hpid=hp_no-name_opinion-card-f%3Ahomepage%2Fstory) with vengeance.
