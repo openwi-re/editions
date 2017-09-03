@@ -17,30 +17,30 @@ North Korea says it now has a [hydrogen bomb](http://www.reuters.com/article/us-
 
 ### The Ideas
 
-[Congress keeps quiet on U.S. drone policy — and that’s a big problem](https://www.washingtonpost.com/news/monkey-cage/wp/2017/08/24/congress-keeps-quiet-on-u-s-drone-policy-and-thats-a-big-problem/) // Although drone strikes are rising under Trump, Congress has remained silent on the issue. In order to ensure accountability and prevent perpetual war, action must be taken soon.
+[How to Get Rich in Trump’s Washington](https://www.nytimes.com/2017/08/30/magazine/how-to-get-rich-in-trumps-washington.html?&_r=0) // Trump has introduced a new type of lobbying. The trick: do the political dirty work yourself, and charge a high premium.
 
-[The Myth of the Kindly General Lee](https://www.theatlantic.com/politics/archive/2017/06/the-myth-of-the-kindly-general-lee/529038/) // Robert E. Lee was not a man worth celebrating. In fact, many of his most "respectable" virtues are pure fiction.
+[Portrait of the Neighborhood as a Hipster Haven](https://www.city-journal.org/html/portrait-neighborhood-hipster-haven-14792.html) // Williamsburg, Brooklyn is a textbook case of gentrification. But its creative scene sets it apart from the rest.
 
-[Craigslist Posters Are Already Trying to Sell Their Used Eclipse Glasses as Collectors’ Items](http://www.slate.com/blogs/moneybox/2017/08/21/craigslist_posters_are_already_trying_to_sell_their_used_eclipse_glasses.html) // Monday's eclipse was an incredible experience, but the glasses used to view the spectacle are not worth more than the sum of their parts.
+[How to Distinguish Between Antifa, White Supremacists, and Black Lives Matter](https://www.theatlantic.com/politics/archive/2017/08/drawing-distinctions-antifa-the-alt-right-and-black-lives-matter/538320/) // There is no moral equivalency between neo-Nazis and their counterprotesters. In this piece, the *Atlantic*'s Conor Friedersdorf explains why.
 
 ### The Leaks
 
-[`GAME OF TRHONES`](https://www.vanityfair.com/hollywood/2017/08/game-of-thrones-leak-hbo-spain)
-
-`HBO (via Vanity Fair)`
-
-[`EXPRESSLANE: A CIA BIOTECH EXPLOIT PROGRAM`](https://wikileaks.org/vault7/#ExpressLane)
+[`ANGELFIRE: A CIA WINDOWS EXPLOIT SUITE`](https://wikileaks.org/vault7/#Angelfire)
 
 `WikiLeaks`
 
-[`IPHONE 8: WIRELESS CHARGING`](http://bgr.com/2017/08/25/iphone-8-wireless-charging-feature-leak/)
+[`700 MILLION EMAIL ADDRESSES`](https://www.theguardian.com/technology/2017/aug/30/spambot-leaks-700m-email-addresses-huge-data-breach-passwords)
 
-`BGR`
+`The Guardian`
+
+[`TIGERSWAN INTERNAL DOCUMENTS`](https://theintercept.com/document/2017/08/26/internal-tigerswan-situation-report-2017-05-11/)
+
+`The Intercept`
 
 ### The Glitch
-[Google Built a Fake City for Its Self-Driving Cars](http://www.slate.com/blogs/future_tense/2017/08/25/google_affiliated_waymo_built_a_fake_city_in_california_to_test_its_self.html) // Driverless cars aren't quite ready to be deployed to the streets of major cities. So Google did what any self-respecting major tech company would do: it built its own city.
+[Google Critic Ousted from Think Tank Funded by the Tech Giant](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.htmll) // Google has unprecedented control over the world: not only is their search engine the gatekeeper to the world's information, their [political reach](http://gizmodo.com/yes-google-uses-its-power-to-quash-ideas-it-doesn-t-li-1798646437) is almost unparalleled. To this [Google-critic](https://www.washingtonpost.com/news/posteverything/wp/2017/08/31/i-criticized-google-it-got-me-fired-thats-how-corporate-power-works/?hpid=hp_no-name_opinion-card-f%3Ahomepage%2Fstory), it had vengeance.
 
-[Let Consumers Sue Companies](https://www.nytimes.com/2017/08/22/opinion/let-consumers-sue-companies.html) // Mandatory arbitration clauses prevent consumers from joining group lawsuits. This shouldn't be legal.
+[On internet privacy, be very afraid](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/) // In the United States, the threat posed by digital surveillance—corporate, government, or otherwise—may not be immediate or tangible now, but Bruce Schneier suggests that may soon change.
 
 [Google Releases Android 8: Oreo](https://www.android.com/versions/oreo-8-0/) // Android 8 promises to bring better performance, in-app password management, "picture-in-picture" mode, notification dots, and better security.
 
