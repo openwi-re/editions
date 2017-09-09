@@ -8,52 +8,47 @@ _This document is not finalized until the aforementioned date._
 
 https://www.theatlantic.com/photo/2017/09/photos-of-the-week-9298/539253/#img26
 ![irma.jpg](irma.jpg)
-A photographer is attacked by demonstrators during a cancelled 'No Marxism in America' rally.
-
-`Stephen Lam / Reuters`
+Hurricane Irma, a category 5 storm, as it approaches landfall in Southern Florida.
+`NOAA / Reuters`
 
 ### As You Already Know
-North Korea says it now has a [hydrogen bomb](http://www.reuters.com/article/us-northkorea-nuclear/north-korea-says-it-has-developed-advanced-hydrogen-bomb-ready-for-icbm-idUSKCN1BD0VW?il=0) capable of being deployed in an intercontinental ballistic missile. Trump is poised to withdraw from a [trade deal](https://www.washingtonpost.com/news/wonk/wp/2017/09/02/trump-plans-withdrawal-from-south-korea-trade-deal/) with South Korea, against the suggestion of his advisors. The Fort McMurray wildfire has finally been [extinguished](http://edmontonjournal.com/news/local-news/fort-mcmurray-wildfire-finally-extinguished-after-15-months) after 15 months of destruction. Trump's lawyer [reiterated](http://abcnews.go.com/ABCNews/trump-lawyer-congress-russia-probe/story?id=49542637&cid=social_twitter_abcnp) that the President wishes to be excluded from future Russia probes. After 51 years, Yellow Pages is going [out of print](http://www.bbc.com/news/amp/business-41125865). FARC, the decades-old Colombian terror group, is trying to rebrand itself as a legitimate [political party](https://www.theguardian.com/world/2017/sep/02/farc-eyes-colombias-2018-elections-as-it-seeks-new-political-dawn) in the country's 2018 election. Radio signals have been [detected](https://www.theguardian.com/science/2017/sep/01/alien-search-detects-radio-signals-from-dwarf-galaxy-3bn-light-years-from-earth?CMP=fb_gu) from a dwarf galaxy 3 billion light years from Earth, but the source probably isn't aliens.
+Equifax, one of the three major credit reporting bureaus, has [leaked](https://nyti.ms/2gQBeod) the personal details of nearly 200 million Americans. Hurricane Irma, a category 5 storm, is [approaching](http://www.cnn.com/2017/09/05/us/hurricane-irma-puerto-rico-florida/index.html) Florida—and FEMA is nearly [out of money](https://www.bloomberg.com/news/articles/2017-09-05/fema-is-almost-out-of-money-as-hurricane-irma-threatens-florida). [Free lunch](http://pix11.com/2017/09/06/free-lunch-now-will-be-provided-for-all-nyc-students/) will now be provided for all NYC public school students. North Korea's nuclear testing site is at risk of [collapsing](http://www.scmp.com/news/china/diplomacy-defence/article/2109725/north-koreas-nuclear-test-site-risk-imploding-chinese), a catastrophic event that would spread dangerous radiation throughout the region. Putin has [refused](https://www.nytimes.com/2017/09/06/world/asia/north-korea-putin-oil-embargo.html) to cut off North Korea's oil supply. A Canadian student [found](http://www.businessinsider.com/ancient-canadian-village-older-than-pyramids-2017-9) an ancient village 10,000 years older than the Pyramids. A magnitude 8 earthquake [hit](http://news.trust.org/item/20170908050116-wvzxh) in Southern Mexico.
 
 ### The Ideas
 
-[How to Get Rich in Trump’s Washington](https://www.nytimes.com/2017/08/30/magazine/how-to-get-rich-in-trumps-washington.html?&_r=0) // Trump has introduced a new type of lobbying. The trick: do the political dirty work yourself, and charge a high premium.
+[What the Rich Won’t Tell You](https://www.nytimes.com/2017/09/08/opinion/sunday/what-the-rich-wont-tell-you.html?mcubz=0) // In America, wealth is taking on new connotations. Here is what the rich won't tell you.
 
-[Portrait of the Neighborhood as a Hipster Haven](https://www.city-journal.org/html/portrait-neighborhood-hipster-haven-14792.html) // Williamsburg, Brooklyn is a textbook case of gentrification. But its creative scene sets it apart from the rest.
+[Season of Smoke](https://theintercept.com/2017/09/09/in-a-summer-of-wildfires-and-hurricanes-my-son-asks-why-is-everything-going-wrong/) // As wildfires rage in Canada and hurricanes ravage the American South, it begs the question: why is everything going wrong?
 
-[How to Distinguish Between Antifa, White Supremacists, and Black Lives Matter](https://www.theatlantic.com/politics/archive/2017/08/drawing-distinctions-antifa-the-alt-right-and-black-lives-matter/538320/) // There is no moral equivalency between neo-Nazis and their counterprotesters. In this piece, the *Atlantic*'s Conor Friedersdorf explains why.
+[The Uncomfortable Truth About Campus Rape Policy](https://www.theatlantic.com/education/archive/2017/09/the-uncomfortable-truth-about-campus-rape-policy/538974/) // Emily Yoffe voices her dissatisfaction with the current state policy surrounding sexual assault at college campuses around the country.
 
 ### The Leaks
 
-[`ANGELFIRE: A CIA WINDOWS EXPLOIT SUITE`](https://wikileaks.org/vault7/#Angelfire)
+[`PERSONAL (SSN, CC, ETC) DATA OF ~200 MILLION AMERICANS (via EQUIFAX)`](https://www.theverge.com/2017/9/8/16276584/equifax-breach-social-security-number-broken-system)
+
+*`The Verge`*
+
+[`NEW VAULT 7 DISCLOSURE: PROTEGO, A CIA MISSILE EXPLOIT`](https://wikileaks.org/vault7/#Protego)
 
 *`WikiLeaks`*
 
-[`700 MILLION EMAIL ADDRESSES`](https://www.theguardian.com/technology/2017/aug/30/spambot-leaks-700m-email-addresses-huge-data-breach-passwords)
-
-*`The Guardian`*
-
-[`TIGERSWAN INTERNAL DOCUMENTS`](https://theintercept.com/document/2017/08/26/internal-tigerswan-situation-report-2017-05-11/)
-
-*`The Intercept`*
-
 ### The Glitch
-[Google Critic Ousted from Think Tank Funded by the Tech Giant](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.htmll) // Google has unprecedented control over the world: not only is their search engine the gatekeeper to the world's information, their [political reach](http://gizmodo.com/yes-google-uses-its-power-to-quash-ideas-it-doesn-t-li-1798646437) is almost unparalleled. And it attacked this [Google-critic](https://www.washingtonpost.com/news/posteverything/wp/2017/08/31/i-criticized-google-it-got-me-fired-thats-how-corporate-power-works/?hpid=hp_no-name_opinion-card-f%3Ahomepage%2Fstory) with vengeance.
+[Equifax Faces Multibillion-Dollar Lawsuit Over Hack](https://www.bloomberg.com/news/articles/2017-09-08/equifax-sued-over-massive-hack-in-multibillion-dollar-lawsuit) // Equifax's data breach is no joking matter. In fact, it may be the worst leak of personal info [ever](https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/).
 
-[On internet privacy, be very afraid](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/) // In the United States, the threat posed by digital surveillance—corporate, government, or otherwise—may not be immediate or tangible now, but Bruce Schneier suggests that may soon change.
+[For the love of God, please tell me what your company does](https://hackernoon.com/for-the-love-of-god-please-tell-me-what-your-company-does-c2f0b835ab92) // Intangible business models have fallen out of style in Silicon Valley. Please, just tell us what your company *does*!
 
-[Rust 1.20 Released](https://blog.rust-lang.org/2017/08/31/Rust-1.20.html) // The "disruptively popular" programming language has reached its next exciting iteration. It's faster and more secure than ever.
+[Facebook Recruiters Are Stupid](http://imgur.com/hw2pnDt) // This leaked email chain reveals the Kafkaesque nature of recruting, even at one of the world's largest tech companies.
 
 ### The Web
 
-[Ancient Earth](http://dinosaurpictures.org/ancient-earth/#600) // Explore earth 600 million years ago.
+[Helioviewer](https://www.helioviewer.org/) // Explore the sun across time!
 
-[Gradient World](https://gradient.world/) // Build color gradients with biological underpinnings.
+[Space Dashboard](http://spacedashboard.com/) // A live feed from the ISS, scientific data from various satellites, and live trackers, all on one page.
 
-[Flood Prediction Tools](http://water.weather.gov/ahps2/index.php) // This NOAA tool helps you predict flooding in your area and minimize its potential impact on your home.
+[Google: Stop Being Evil](https://vivaldi.com/blog/google-return-to-not-being-evil/) // "A monopoly both in search and advertising, Google, unfortunately, shows that they are not able to resist the misuse of power."
 
 ### The Long Read
-https://www.propublica.org/article/hell-and-high-water-text "Houston is the fourth-largest city in the country. It's home to the nation's largest refining and petrochemical complex, where billions of gallons of oil and dangerous chemicals are stored. And it's a sitting duck for the next big hurricane. Why isn't Texas ready?"
+https://www.newyorker.com/magazine/2014/03/24/berlin-nights "The first person I met in Berlin was a boar-hunting friend of a friend, who agreed to talk to me only if I didn’t print his name. He was in his early forties, six and a half feet tall, muscular, lean, and fair, with shaggy reddish-brown hair, some stubble, and a great deal of self-confidence. He had on worn jeans, biker boots, a loose faded black T-shirt, and a scarf, and yet I’ll confess I found myself picturing him trim and tidy in Heidelberg duelling garb. Preconceptions can be hard to shake when you’re fresh in town."
 
 ### Actionable
-https://www.redcross.org/donate/donation Donate to the Red Cross. For Harvey or the next natural disaster, the Red Cross will be there to help.
+https://www.redcross.org/donate/donation Donate to the Red Cross. Irma and Harvey have hit—and the Red Cross is there to help.
