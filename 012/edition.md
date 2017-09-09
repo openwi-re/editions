@@ -8,6 +8,7 @@ _This document is not finalized until the aforementioned date._
 
 https://www.theatlantic.com/photo/2017/09/photos-of-the-week-9298/539253/#img26
 ![irma.jpg](irma.jpg)
+
 Hurricane Irma, a category 5 storm, as it approaches landfall in Southern Florida.
 `NOAA / Reuters`
 
