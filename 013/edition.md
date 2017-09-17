@@ -19,37 +19,41 @@ After leaking the personal information of roughly 200 million Americans, Equifax
 
 [Irma Won't "Wake Up" Climate Change-denying Republicans. Their Whole Ideology is on the Line.](https://theintercept.com/2017/09/11/irma-donald-trump-tax-cuts-climate-change-republican-ideology-capitalism/) // Republican climate change deniers don't doubt the science. They are instead afraid to admit that the free market needs regulation.
 
-[Season of Smoke](https://theintercept.com/2017/09/09/in-a-summer-of-wildfires-and-hurricanes-my-son-asks-why-is-everything-going-wrong/) // As wildfires rage in Canada and hurricanes ravage the American South, it begs the question: why is everything going wrong?
+[The Suburb of the Future, Almost Here](https://www.nytimes.com/2017/09/15/sunday-review/future-suburb-millennials.html) // Contrary to popular belief, millennials are not a suburb-hating generation. In fact, as suburbs evolve, so has their appeal to young people.
 
-[The Uncomfortable Truth About Campus Rape Policy](https://www.theatlantic.com/education/archive/2017/09/the-uncomfortable-truth-about-campus-rape-policy/538974/) // Emily Yoffe voices her dissatisfaction with the current state policy surrounding sexual assault at college campuses around the country.
+[Is There a Cryptocurrency Bubble? Just Ask Doge.](https://www.nytimes.com/2017/09/15/business/cryptocurrency-bubble-doge.html) // While Ethereum and Bitcoin seem to be legitimate, other cryptocurrencies and their "initial coin offerings" are looking more and more like scams.
 
 ### The Leaks
 
-[`PERSONAL (SSN, CC, ETC) DATA OF ~200 MILLION AMERICANS (via EQUIFAX)`](https://www.theverge.com/2017/9/8/16276584/equifax-breach-social-security-number-broken-system)
+[`MCMASTER ANTI-LEAK MEMO LEAKED`](https://www.vox.com/policy-and-politics/2017/9/14/16305384/mcmaster-memo-leaks)
+
+*`Vox`*
+
+[`GOOGLE PIXEL 2 & OTHER ANDROID DEVICES`](https://www.forbes.com/sites/ewanspence/2017/09/15/android-news-headlines-google-new-leak-rumor-pixel2-note8-s9-nokia/#493e60151c5c)
+
+*`Forbes, Ewan Spence`*
+
+[`GOPRO HERO 6 SPECS`](https://www.theverge.com/circuitbreaker/2017/9/16/16318882/gopro-hero-6-black-specs-features-price-karma)
 
 *`The Verge`*
 
-[`NEW VAULT 7 DISCLOSURE: PROTEGO, A CIA MISSILE EXPLOIT`](https://wikileaks.org/vault7/#Protego)
-
-*`WikiLeaks`*
-
 ### The Glitch
-[Equifax Faces Multibillion-Dollar Lawsuit Over Hack](https://www.bloomberg.com/news/articles/2017-09-08/equifax-sued-over-massive-hack-in-multibillion-dollar-lawsuit) // Equifax's data breach is no joking matter. In fact, it may be the worst leak of personal info [ever](https://arstechnica.com/information-technology/2017/09/why-the-equifax-breach-is-very-possibly-the-worst-leak-of-personal-info-ever/).
+[iPhone X](https://www.apple.com/iphone-x/) // Apple has released its latest iPhone, the iPhone X. With a base price tag of $1,000, it's the most expensive iPhone, too.
 
-[For the love of God, please tell me what your company does](https://hackernoon.com/for-the-love-of-god-please-tell-me-what-your-company-does-c2f0b835ab92) // Intangible business models have fallen out of style in Silicon Valley. Please, just tell us what your company *does*!
+[Mozilla and the Washington Post Are Reinventing Online Comments](https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/) // The *Washington Post* has integrated Mozilla's new commenting platform, and the effect might be game-changing.
 
-[Facebook Recruiters Are Stupid](http://imgur.com/hw2pnDt) // This leaked email chain reveals the Kafkaesque nature of recruting, even at one of the world's largest tech companies.
+[Chrome will no longer autoplay content with sound in January 2018](https://venturebeat.com/2017/09/14/chrome-will-no-longer-autoplay-content-with-sound-in-january-2018/) // Starting in January of 2018, the Chrome web browser will block all auto-playing content with sound. Look out, invasive advertisers.
 
 ### The Web
 
-[Helioviewer](https://www.helioviewer.org/) // Explore the sun across time!
+[Most Female and Male Occupations Since 1950](https://flowingdata.com/2017/09/11/most-female-and-male-occupations-since-1950/) // Explore the breakdown of occupations through time.
 
-[Space Dashboard](http://spacedashboard.com/) // A live feed from the ISS, scientific data from various satellites, and live trackers, all on one page.
+[Map To Globe](https://www.maptoglobe.com/) // Learn about the trade offs necessary in cartography to project a sphere—our globe—to a 2D map.
 
-[Google: Stop Being Evil](https://vivaldi.com/blog/google-return-to-not-being-evil/) // "A monopoly both in search and advertising, Google, unfortunately, shows that they are not able to resist the misuse of power."
+[3D Face Reconstruction](http://www.cs.nott.ac.uk/~psxasj/3dme/) // Give this site an image of any face, and it will turn it into a 3D model.
 
 ### The Long Read
-https://www.newyorker.com/magazine/2014/03/24/berlin-nights "The first person I met in Berlin was a boar-hunting friend of a friend, who agreed to talk to me only if I didn’t print his name. He was in his early forties, six and a half feet tall, muscular, lean, and fair, with shaggy reddish-brown hair, some stubble, and a great deal of self-confidence. He had on worn jeans, biker boots, a loose faded black T-shirt, and a scarf, and yet I’ll confess I found myself picturing him trim and tidy in Heidelberg duelling garb. Preconceptions can be hard to shake when you’re fresh in town."
+https://jezebel.com/the-making-and-unmaking-of-iggy-azalea-1797030869 **The Making and Unmaking of Iggy Azalea**: "During the summer of 2010, Iggy Azalea lived free of charge in a guest house in Los Angeles, courtesy of Polow Da Don. As the producer behind Fergie’s biggest hits, he saw Iggy as the second coming and wanted to groom her into a pop star. But Iggy had a much different vision—she wanted to be a hardcore rapper."
 
 ### Actionable
 https://www.redcross.org/donate/donation Donate to the Red Cross. Irma and Harvey have hit—and the Red Cross is there to help.
