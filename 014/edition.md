@@ -18,40 +18,36 @@ The EU was caught [suppressing](https://gizmodo.com/the-eu-suppressed-a-300-page
 
 ### The Ideas
 
-[Irma Won't "Wake Up" Climate Change-denying Republicans. Their Whole Ideology is on the Line.](https://theintercept.com/2017/09/11/irma-donald-trump-tax-cuts-climate-change-republican-ideology-capitalism/) // Republican climate change deniers don't doubt the science—they are instead afraid to admit that the free market needs regulation.
+[How NAFTA Explains the Two Mexicos](https://www.theatlantic.com/international/archive/2017/09/nafta-mexico-trump-trade/540906/) // The same day that the Mexican Zapatista Army of National Liberation seized public buildings in Chipas, Mexico, NAFTA went into effect. To some, the treaty represented a new era of free trade. To others, NAFTA was simply recolonialization.
 
-[The Suburb of the Future, Almost Here](https://www.nytimes.com/2017/09/15/sunday-review/future-suburb-millennials.html) // Contrary to popular belief, millennials are not a suburb-hating generation. In fact, as suburbs evolve, their appeal to young people has increased.
+[In Iraqi Kurdistan, Voting on Independence and Bracing for Violence](https://theintercept.com/2017/09/23/in-iraqi-kurdistan-voting-on-independence-and-bracing-for-violence/) // Calls for independence have become commonplace in Kurdistan. But the calls now have merit: on Monday, the country will put the question to a vote.
 
-[Is There a Cryptocurrency Bubble? Just Ask Doge.](https://www.nytimes.com/2017/09/15/business/cryptocurrency-bubble-doge.html) // While Ethereum and Bitcoin will not disappear any time soon, other cryptocurrencies and their "initial coin offerings" are often shaping up to be scams.
+[How Milo Yiannopoulos's Berkeley 'Free Speech Week' Fell Apart](https://www.theatlantic.com/politics/archive/2017/09/how-milo-yiannopoulos-berkeley-free-speech-week-fell-apart/540867/) // Milo Yiannopoulos, the right-wing agitator, planned to have an event celebrating free speech on the campus of UC Berkeley. Expectedly, the event did not go according to plan.
 
 ### The Leaks
 
-[`MCMASTER ANTI-LEAK MEMO LEAKED`](https://www.vox.com/policy-and-politics/2017/9/14/16305384/mcmaster-memo-leaks)
+[`HTC: ANOTHER GOOGLE ACQUISITION`](https://www.forbes.com/sites/ianmorris/2017/09/20/google-looks-set-to-buy-htc-as-memo-leaks-and-trading-suspension-is-announced/#55e8672521c6)
 
-*`Vox`*
+*`Forbes, Ian Morris`*
 
-[`GOOGLE PIXEL 2 & OTHER ANDROID DEVICES`](https://www.forbes.com/sites/ewanspence/2017/09/15/android-news-headlines-google-new-leak-rumor-pixel2-note8-s9-nokia/#493e60151c5c)
+[`APACHE MEMORY DATA`](https://arstechnica.com/information-technology/2017/09/apache-bug-leaks-contents-of-server-memory-for-all-to-see-patch-now/)
 
-*`Forbes, Ewan Spence`*
-
-[`GOPRO HERO 6 SPECS`](https://www.theverge.com/circuitbreaker/2017/9/16/16318882/gopro-hero-6-black-specs-features-price-karma)
-
-*`The Verge`*
+*`ArsTechnica`*
 
 ### The Glitch
-[iPhone X](https://www.apple.com/iphone-x/) // Apple has released its latest iPhone, the iPhone X. With a base price tag of $999, it's the most expensive iPhone, too.
+[World Wide Web Consortium abandons consensus, standardizes DRM with 58.4% support, EFF resigns](https://boingboing.net/2017/09/18/antifeatures-for-all.html) // Long considered an "antifeature," Digital Rights Management has now been adopted by the World Wide Web Consortium as a standard.
 
-[Mozilla and the Washington Post Are Reinventing Online Comments](https://blog.mozilla.org/blog/2017/09/06/mozilla-washington-post-reinventing-online-comments/) // The *Washington Post* has integrated Mozilla's new commenting platform, a new system that may revolutionize online commenting.
+["Join our startup, we’ll cut your pay by 40%!"](https://codewithoutrules.com/2017/09/18/when-startups-pay-less/) // Unpaid overtime is not only bad for one's health—it's also bad for one's pay.
 
-[Chrome will no longer autoplay content with sound in January 2018](https://venturebeat.com/2017/09/14/chrome-will-no-longer-autoplay-content-with-sound-in-january-2018/) // Starting in January of 2018, the Chrome web browser will block all auto-playing content with sound. Look out, invasive advertisers.
+[How to Hack a Turned-Off Computer](https://www.blackhat.com/eu-17/briefings/schedule/#how-to-hack-a-turned-off-computer-or-running-unsigned-code-in-intel-management-engine-8668) // A concerning new security vulnerability allows for unsigned code to be run in the Intel Management Engine.
 
 ### The Web
 
-[Most Female and Male Occupations Since 1950](https://flowingdata.com/2017/09/11/most-female-and-male-occupations-since-1950/) // Explore the breakdown of occupations through time.
+[Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) // Visually analyze the audio frequencies present in any sound file.
 
-[Map To Globe](https://www.maptoglobe.com/) // Learn about the trade offs necessary in cartography to project a sphere—our globe—to a 2D map.
+[Free Supercomputer](https://quantumexperience.ng.bluemix.net/qx/community) // Write experiments that will run on a real quantum supercomputer—for free!
 
-[3D Face Reconstruction](http://www.cs.nott.ac.uk/~psxasj/3dme/) // Give this site an image of any face, and from the image it will generate a 3D model.
+[Cite Anything](http://www.easybib.com/) // This popular tool allows you to cite *anything*—and easily manage your bibliography in the process.
 
 ### The Long Read
 https://theintercept.com/2017/09/17/goldman-sachs-gary-cohn-donald-trump-administration/ **Government by Goldman**: "Steve Bannon was in the room the day Donald Trump first fell for Gary Cohn. So were Reince Priebus, Jared Kushner, and Trump’s pick for secretary of Treasury, Steve Mnuchin. It was the end of November, three weeks after Trump’s improbable victory, and Cohn, then still the president of Goldman Sachs, was at Trump Tower presumably at the invitation of Kushner, with whom he was friendly. Cohn was there to offer his views about jobs and the economy. But, like the man he was there to meet, he was at heart a salesman."
