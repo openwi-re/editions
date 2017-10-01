@@ -17,19 +17,19 @@ In the aftermath of a deadly hurricane, Tesla has [quietly](https://www.ecowatch
 
 ### The Ideas
 
-[How NAFTA Explains the Two Mexicos](https://www.theatlantic.com/international/archive/2017/09/nafta-mexico-trump-trade/540906/) // The same day that the Mexican Zapatista Army of National Liberation seized public buildings in Chipas, Mexico, NAFTA went into effect. To some, the treaty represented a new era of free trade. To others, NAFTA was simply recolonialization.
+[The NFL Protests May Be Unpopular Now, But That Doesn’t Mean They’ll End That Way](The NFL Protests May Be Unpopular Now, But That Doesn’t Mean They’ll End That Way) // Many NFL players have come under intense criticism for kneeling or not coming out to the field during the national anthem. While the act may be unpopular now, Harry Enten argues, there's a good chance that it will soon be accepted. The civil rights movement, after all, began as unpopular.
 
-[In Iraqi Kurdistan, Voting on Independence and Bracing for Violence](https://theintercept.com/2017/09/23/in-iraqi-kurdistan-voting-on-independence-and-bracing-for-violence/) // Calls for independence have become commonplace in Kurdistan. But the calls now have merit: on Monday, the country will put the question to a vote.
+[A Massive Review of the Evidence Shows Letting People Out of Prison Doesn’t Increase Crime](https://www.vox.com/policy-and-politics/2017/9/25/16340782/study-mass-incarceration) // A new study has found that letting people out of prison does not increase crime. This is a major breakthrough for critics of the American justice system, but the study also identifies some issues.
 
-[How Milo Yiannopoulos's Berkeley 'Free Speech Week' Fell Apart](https://www.theatlantic.com/politics/archive/2017/09/how-milo-yiannopoulos-berkeley-free-speech-week-fell-apart/540867/) // Milo Yiannopoulos, the right-wing agitator, planned to have an event celebrating free speech on the campus of UC Berkeley. Expectedly, the event did not go according to plan.
+[Millennials Aren’t Killing Industries. They're Just Broke and Your Business Sucks.](https://tech.co/millennials-killing-broke-business-sucks-2017-09#.Wci27n8bsI0.facebook) // Put simply, millennials don't particularly care about your business. They just don't think it's worth it.
 
 ### The Leaks
 
-[`HTC: ANOTHER GOOGLE ACQUISITION`](https://www.forbes.com/sites/ianmorris/2017/09/20/google-looks-set-to-buy-htc-as-memo-leaks-and-trading-suspension-is-announced/#55e8672521c6)
+[`RUSSIAN SPY COMPANY'S FILES`](https://wikileaks.org/spyfiles/russia/)
 
-*`Forbes, Ian Morris`*
+*`WikiLeaks`*
 
-[`APACHE MEMORY DATA`](https://arstechnica.com/information-technology/2017/09/apache-bug-leaks-contents-of-server-memory-for-all-to-see-patch-now/)
+[`INTERNET EXPLORER ADDRESS BAR DATA`](https://arstechnica.com/information-technology/2017/09/bug-in-fully-patched-internet-explorer-leaks-text-in-address-bar/)
 
 *`Ars Technica`*
 
