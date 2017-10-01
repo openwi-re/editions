@@ -34,19 +34,19 @@ In the aftermath of a deadly hurricane, Tesla has [quietly](https://www.ecowatch
 *`Ars Technica`*
 
 ### The Glitch
-[World Wide Web Consortium abandons consensus, standardizes DRM with 58.4% support, EFF resigns](https://boingboing.net/2017/09/18/antifeatures-for-all.html) // Long considered an "antifeature," Digital Rights Management has now been adopted by the World Wide Web Consortium as a standard.
+[It's Time to Give Firefox Another Chance](https://techcrunch.com/2017/09/29/its-time-to-give-firefox-another-chance/) // Firefox's rendering engine has been completely rewritten in Rust, making it multithreaded and snappy. Chrome, move over. Firefox is comparable again.
 
-["Join our startup, we’ll cut your pay by 40%!"](https://codewithoutrules.com/2017/09/18/when-startups-pay-less/) // Unpaid overtime is not only bad for one's health—it's also bad for one's pay.
+[China Blocks WhatsApp, Broadening Online Censorship](https://www.nytimes.com/2017/09/25/business/china-whatsapp-blocked.html?mcubz=3&_r=0) // China blocks WhatsApp, a popular mobile messaging app that refused to share its customer's data with the government.
 
-[How to Hack a Turned-Off Computer](https://www.blackhat.com/eu-17/briefings/schedule/#how-to-hack-a-turned-off-computer-or-running-unsigned-code-in-intel-management-engine-8668) // A concerning new security vulnerability allows for unsigned code to be run in the Intel Management Engine.
+[Three Paths in the Tech Industry: Founder, Executive, or Employee](https://blog.ycombinator.com/three-paths-in-the-tech-industry-founder-executive-or-employee/) // There is little mobility in today's tech industry. You either enter as a founder, executive, or employee—and you'll probably stay there.
 
 ### The Web
 
-[Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) // Visually analyze the audio frequencies present in any sound file.
+[Stolen Camera Finder](http://www.stolencamerafinder.com/) // Using the embedded serial number in EXIF data, this website will help you find your stolen camera.
 
-[Free Supercomputer](https://quantumexperience.ng.bluemix.net/qx/community) // Write experiments that will run on a real quantum supercomputer—for free!
+[Global Data](https://www.nnvl.noaa.gov/view/globaldata.html#TRUE) // View high-quality—and often realtime—global weather data from the NOAA.
 
-[Cite Anything](http://www.easybib.com/) // This popular tool allows you to cite *anything*—and easily manage your bibliography in the process.
+[Draggable](https://shopify.github.io/draggable/) // The homepage for this new open-source project is truly a piece of art.
 
 ### The Long Read
 https://www.smithsonianmag.com/history/what-ever-happened-to-russian-revolution-180964768/ **WHAT EVER HAPPENED TO THE RUSSIAN REVOLUTION?**: "We journey through Vladimir Putin’s Russia to measure the aftershocks of the political explosion that rocked the world a century ago."
