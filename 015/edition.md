@@ -4,6 +4,11 @@
 
 _This document is not finalized until the aforementioned date._
 
+| Field | Value |
+| ----- | ----- |
+| Subject | openwire // Russian spies, Ugandan opposition, Saudi Arabia, and the Russian Revolution |
+| Preview | This week, we tackle a deadly hurricane, predatory loan offers, and a continuation of the Russian saga. |
+
 ### Photo
 
 https://www.theatlantic.com/photo/2017/09/photos-of-the-week-923929/541569/#img24
