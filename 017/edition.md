@@ -1,8 +1,8 @@
 ---
 Edition: 17
 Release: October 21, 2017
-Subject: openwire // Apple's negligence, a mass shooting, and insider trading by Iceland's PM
-Preview: Apple accidentally set a large number of users' password hints to their passwords. All that and more inside this week's openwi:re.
+Subject: openwire // a bombing in Somalia, WiFi, lies, and Facebook
+Preview: A Neo-Nazi and National Front organizer quit the movement, opened up about his Jewish heritage, and came out as gay. All that and more inside this week's openwi:re.
 ---
 
 ### Photo
@@ -25,31 +25,31 @@ A Neo-Nazi and National Front [organizer](https://www.channel4.com/news/neo-nazi
 
 ### The Leaks
 
-[`INSIDER TRADING BY ICELANDIC PRIME MINISTER`](https://www.theguardian.com/world/2017/oct/06/iceland-pm-sold-bank-assets-hours-before-financial-crash-leaks-show)
+[`FACEBOOK SECURITY: "LIKE A COLLEGE CAMPUS"`](http://www.zdnet.com/article/leaked-audio-facebook-security-boss-says-network-is-like-a-college-campus/)
 
-*`The Guardian`*
+*`ZD Net`*
 
-[`GALAXY X DESIGNS`](https://www.forbes.com/sites/ewanspence/2017/10/04/samsung-galaxyx-new-leak-rumor-availability-release/#5fca16c76bce)
+[`STARBUCKS' WINTER CUPS`](https://www.inc.com/chris-matyszczyk/starbucks-new-holiday-cups-appear-to-have-leaked-oh-take-a-look.html)
 
-*`Ewan Spence, Forbes`*
+*`INC`*
 
 ### The Glitch
-[If macOS High Sierra shows your password instead of the password hint for an encrypted APFS volume](https://support.apple.com/en-us/HT208168) // Apple's Disk Utility software accidentally entered users' passwords as their password hints. Yes, this happened.
+[Serious flaw in WPA2 protocol lets attackers intercept passwords and much more](https://arstechnica.com/information-technology/2017/10/severe-flaw-in-wpa2-protocol-leaves-wi-fi-traffic-open-to-eavesdropping/) // A newly discovered vulnerability in WPA2 leaves many of the world's WiFi networks unprotected.
 
-[Apache Guacamole](https://guacamole.incubator.apache.org/) // Apache Guacamole is clientless desktop sharing. Best of all, it's free and open source.
+[ Selling My Bootstrapped SaaS Business](https://www.indiehackers.com/@tylertringas/selling-my-bootstrapped-saas-business-26c8406e1d) // Unlike most autobiographical acquisition stories, this one doesn't come off as a humblebrag. Better yet, it's perfectly replicable.
 
-[Keybase launches encrypted git](https://keybase.io/blog/encrypted-git-for-everyone) // Keybase, the company aiming to make encryption accessible, has launched its latest product: encrypted git. While this won't change the lives of most people, it could have a huge splash in the tech world.
+[How I Socially Engineer Myself Into High Security Facilities](https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities) // To this penetration tester, social exploits are far more powerful than anything a computer could accomplish.
 
 ### The Web
 
-[Security.txt](https://securitytxt.org/) // It used to be difficult for security researchers to get in touch with websites if they discovered vulnerabilities. If the Security.txt protocol is adopted, this may no longer be the case.
+[Tone of Sorting](https://caspervonb.github.io/toneofsorting/) // Interested in learning more about how various sorting algorithms work? Try a new approach—*hear* the algorithms!
 
-[WhatsThatBulb](http://www.whatsthatbulb.com/) // Need help identifying that light bulb so you can buy a replacement? Just upload an image of the bulb to this site, and it'll tell you exactly what type of lightbulb you need.
+[Wave Simulator](http://www.falstad.com/ripple/) // This neat website lets you play with various wave parameters and visualize their effects.
 
-[WillMyPhoneWork](https://willmyphonework.net/) // Going abroad? This website will tell you if your phone will get 4G service on a variety of international carriers.
+[Histography](https://histography.io) // Every historic event from the past twelve billion years is present on this beautiful site.
 
 ### The Long Read
-https://www.newyorker.com/magazine/2017/10/09/how-the-elderly-lose-their-rights?mbid=social_facebook **How the Elderly Lose Their Rights**: "Guardians can sell the assets and control the lives of senior citizens without their consent—and reap a profit from it. After a stranger became their guardian, Rudy and Rennie North were moved to a nursing home and their property was sold."
+http://www.bbc.co.uk/news/resources/idt-sh/Thoughts_Chairman_Xi **The thoughts of Chairman Xi**: "There aren’t many 21st Century leaders who lived in a cave and laboured as a farmer before clawing their way to power. Now President Xi Jinping’s second five-year term as leader will be confirmed at the Chinese Communist Party Congress. He leads a confident, rising superpower, but one which jealously polices what is said about its leaders."
 
 ### Actionable
 https://www.redcross.org/donate/donation Donate to the Red Cross. Irma, Harvey, and Maria have hit—and the Red Cross is there to help.
