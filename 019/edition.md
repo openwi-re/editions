@@ -1,8 +1,8 @@
 ---
 Edition: 19
 Release: November 5th, 2017
-Subject: openwire // first Mueller charges, Catalonian independence, and wiped servers
-Preview: The first charges have been filed in Mueller's investigation. Catalonia has declared independence from Spain. The CIA tried to stage bombings in Miami.
+Subject: openwire // the Paradise Papers, coal, and a terror attack in lower Manhattan
+Preview: A new leak reveals the financial secrets of the global elite. A right wing blogger turns out to not ever have existed.
 ---
 
 ### Photo
