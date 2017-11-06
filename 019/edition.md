@@ -13,28 +13,32 @@ A replica statue of King Edward VII is set into place by Jon McCurley during a p
 `Chris Helgren / Reuters`
 
 ### As You Already Know
-The Paradise Papers have been [leaked](https://www.theguardian.com/news/2017/nov/05/paradise-papers-leak-reveals-secrets-of-world-elites-hidden-wealth?CMP=Share_AndroidApp_New_Post), revealing the secrets of the elite's hidden wealth. Environmentalists [protested](http://www.bbc.com/news/science-environment-41859283) Donald Trump's proposition to the United Nations that coal is a potential solution to climate change. An ISIS-inspired terrorist [killed](https://www.nytimes.com/interactive/2017/10/31/nyregion/manhattan-truck-attack.html?_r=0) eight people in a New York City truck attack. Jenna Abrams, a popular right-wing blogger, turns out to never have [existed](https://www.thedailybeast.com/jenna-abrams-russias-clown-troll-princess-duped-the-mainstream-media-and-the-world). The United States has [backed out](http://thehill.com/policy/international/358560-us-backs-out-of-global-oil-anti-corruption-effort) of an international oil anti-corruption effort. Manafort was [revealed](http://www.cnn.com/2017/10/31/politics/manafort-3-passports/index.html) to have three different passports and a phone registered under a fake name. He was [paid](https://www.pri.org/stories/2017-10-30/paul-manafort-earned-600000-month-pro-russia-party-says-ukrainian-report) $600,000 per month by a pro-Russia party, and Ukraine has expressed [willingness](http://www.cbc.ca/news/politics/ukraine-manafort-investigation-1.4382033) to provide information against him. Medical marijuana is now [legal](http://www.thenews.pl/1/9/Artykul/333153,Medical-use-of-cannabis-officially-legal-in-Poland) in Poland. At least 200 North Koreans were [killed](https://www.malaysiakini.com/news/400184#2QCk0qwG12aTpRCB.99) in a tunnel collapse.
+The Paradise Papers have been [leaked](https://www.theguardian.com/news/2017/nov/05/paradise-papers-leak-reveals-secrets-of-world-elites-hidden-wealth?CMP=Share_AndroidApp_New_Post), revealing the financial secrets of the global elite. Environmentalists [protested](http://www.bbc.com/news/science-environment-41859283) Donald Trump's proposition to the United Nations that coal is a potential solution to climate change. An ISIS-inspired terrorist [killed](https://www.nytimes.com/interactive/2017/10/31/nyregion/manhattan-truck-attack.html?_r=0) eight people in a New York City truck attack. Jenna Abrams, a popular right-wing blogger, turns out to never have even [existed](https://www.thedailybeast.com/jenna-abrams-russias-clown-troll-princess-duped-the-mainstream-media-and-the-world). The United States has [backed out](http://thehill.com/policy/international/358560-us-backs-out-of-global-oil-anti-corruption-effort) of an international oil anti-corruption effort. Paul Manafort was [revealed](http://www.cnn.com/2017/10/31/politics/manafort-3-passports/index.html) to have three different passports and a phone registered under a fake name. He was [paid](https://www.pri.org/stories/2017-10-30/paul-manafort-earned-600000-month-pro-russia-party-says-ukrainian-report) $600,000 per month by a pro-Russia party, and Ukraine has expressed [willingness](http://www.cbc.ca/news/politics/ukraine-manafort-investigation-1.4382033) to provide information against him. Medical marijuana is now [legal](http://www.thenews.pl/1/9/Artykul/333153,Medical-use-of-cannabis-officially-legal-in-Poland) in Poland. At least 200 North Koreans were [killed](https://www.malaysiakini.com/news/400184#2QCk0qwG12aTpRCB.99) in a tunnel collapse.
 
 ### The Ideas
+
+[Net States Rule the World; We Need to Recognize Their Power](https://www.wired.com/story/net-states-rule-the-world-we-need-to-recognize-their-power/?mbid=social_fb) // They exist largely online, enjoy international devotees, and advance belief-driven agendas that they pursue, at times, above, the law.
 
 [Against an Increasingly User-Hostile Web](https://www.neustadt.fr/essays/against-a-user-hostile-web/) // We're quietly replacing an open web that connects and empowers with one that restricts and commoditizes people. We need to stop it.
 
 [The Surprising Revolt at the Most Liberal College in the Country](https://www.theatlantic.com/education/archive/2017/11/the-surprising-revolt-at-reed/544682/) // Activists are disrupting lectures to protest "white supremacy," but many students are taking steps to stop them.
 
-[Net States Rule the World; We Need to Recognize Their Power](https://www.wired.com/story/net-states-rule-the-world-we-need-to-recognize-their-power/?mbid=social_fb) // They exist largely online, enjoy international devotees, and advance belief-driven agendas that they pursue, at times, above, the law.
-
 ### The Leaks
+
+<center>
 
 [`THE PARADISE PAPERS`](https://www.theguardian.com/news/2017/nov/05/paradise-papers-leak-reveals-secrets-of-world-elites-hidden-wealth?CMP=Share_AndroidApp_New_Post)
 
 *`International Consortium of Investigative Journalists`*
 
+</center>
+
 ### The Glitch
-[‘I Forgot My PIN’: An Epic Tale of Losing $30,000 in Bitcoin](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/) // After a series of unfortunate events—he forgot his PIN and lost the paper backup—one man finds himself unable to access his $30,000 of Bitcoin.
+[‘I Forgot My PIN’: An Epic Tale of Losing $30,000 in Bitcoin](https://www.wired.com/story/i-forgot-my-pin-an-epic-tale-of-losing-dollar30000-in-bitcoin/) // After a series of unfortunate events—he forgot his PIN and lost the paper backup—one man finds himself unable to access $30,000 of Bitcoin.
 
-[Fake WhatsApp](https://twitter.com/virqdroid/status/926437790140772362) // A fake version of WhatsApp—pretending to be made by WhatsApp Inc. itself—has nearly 1,000,000 downloads on the Google Play Store.
+[Fake WhatsApp](https://twitter.com/virqdroid/status/926437790140772362) // A fake version of WhatsApp pretending to be made by WhatsApp Inc. itself amassed nearly 1,000,000 downloads on the Google Play Store.
 
-[The Web began dying in 2014, here's how](https://staltz.com/the-web-began-dying-in-2014-heres-how.html) // Google, Facebook, and Amazon have become so dominant on the Internet that smaller sites are unable to compete, André Staltz argues.
+[The Web began dying in 2014, here's how](https://staltz.com/the-web-began-dying-in-2014-heres-how.html) // Google, Facebook, and Amazon have become so dominant on the Internet that smaller sites are now unable to compete, André Staltz argues.
 
 ### The Web
 
