@@ -1,8 +1,8 @@
 ---
 Edition: 20
 Release: November 12th, 2017
-Subject: openwire //
-Preview: A new leak reveals the financial secrets of the global elite. A right wing blogger turns out to not ever have existed.
+Subject: openwire // elections, gay pride in India, and the death of the SSN
+Preview: China bans tourism to North Korea. Canada extends parental leave. The paradise papers, continued.
 ---
 
 ### Photo
@@ -17,7 +17,7 @@ China has [banned](http://www.newsweek.com/china-bans-north-korea-tourism-one-da
 
 Canada has [extended](https://www.thestar.com/news/canada/2017/11/09/ottawa-to-announce-expanded-parental-leave-thatll-come-into-effect-next-month.html) parental leave to eighteen months.
 
-Democrats did [very well](https://www.nytimes.com/elections/results/virginia-general-elections) in Tuesday's Virginia elections, winning  Virginia governor, Lieutenant Governor, and Attorney General.
+Democrats did [very well](https://www.nytimes.com/elections/results/virginia-general-elections) in Tuesday's Virginia elections, winning Virginia governor, Lieutenant Governor, and Attorney General.
 
 After Trump says that the United States "won't be taken advantage of anymore," Pacific Rim nations [shrug](https://www.washingtonpost.com/news/post-politics/wp/2017/11/10/trump-says-u-s-wont-be-taken-advantage-of-anymore-and-hours-later-pacific-rim-nations-reach-deal-on-trade-without-u-s-buy-in/) and reach a new trade deal *without* the United States.
 
