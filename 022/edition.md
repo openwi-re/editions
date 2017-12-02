@@ -1,8 +1,8 @@
 ---
 Edition: 22
 Release: December 2nd, 2017
-Subject: openwire // Mugabe and Net Neutrality are out. Extraterrestrial rocks are in.
-Preview: Robert Mugabe of Zimbabwe has been ousted after a 37 year rule. Net Neutrality is under attack again. A terror attack took place at an Egypt mosque, leaving over 300 dead.
+Subject: openwire // Flynn, taxes, and Comcast.
+Preview: Michael Flynn pleads guilty for lying to the FBI. The Senate has passed Trump's tax bill. Comcast works against Net Neutrality.
 ---
 
 ### Photo
