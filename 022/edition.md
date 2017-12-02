@@ -2,7 +2,7 @@
 Edition: 22
 Release: December 2nd, 2017
 Subject: openwire // Flynn, taxes, and Comcast.
-Preview: Michael Flynn pleads guilty for lying to the FBI. The Senate has passed Trump's tax bill. Comcast works against Net Neutrality.
+Preview: Michael Flynn pleads guilty for lying to the FBI. The Senate passed Trump's tax bill. Comcast works against Net Neutrality.
 ---
 
 ### Photo
@@ -15,9 +15,9 @@ A protester is sprayed down by Israeli police during a demonstration by ultra-Or
 ### As You Already Know
 Michael Flynn [pleads guilty](http://www.bbc.com/news/world-us-canada-42192080) to lying to the FBI.
 
-The United States Senate has [passed](http://www.bbc.com/news/world-us-canada-42205181) Trump's tax overhaul.
+The United States Senate [passed](http://www.bbc.com/news/world-us-canada-42205181) Trump's tax overhaul.
 
-Matt Lauer of NBC News has been [fired](http://money.cnn.com/2017/11/29/media/matt-lauer/index.html) after allegations of sexual harassment.
+NBC News [fired](http://money.cnn.com/2017/11/29/media/matt-lauer/index.html) Matt Lauer after allegations of sexual harassment.
 
 Comcast [removed](https://arstechnica.com/tech-policy/2017/11/comcast-deleted-net-neutrality-pledge-the-same-day-fcc-announced-repeal/) its promise to uphold Net Neutrality the day after the FCC announced its plans to repeal the policy.
 
