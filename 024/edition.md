@@ -1,8 +1,8 @@
 ---
 Edition: 24
 Release: December 24th, 2017
-Subject: openwire //
-Preview:
+Subject: openwire // Pakistan is "on notice."
+Preview: France will outlaw oil production. The UN shot down Trump. And Trump put Pakistan "on notice."
 ---
 
 ### Photo
