@@ -14,11 +14,11 @@ A man rides a zipline to light a Christmas tree on an island in Beirut, Lebanon.
 `Mohamed Azakir / Reuters`
 
 ### As You Already Know
-France has passed a [law](http://www.foxbusiness.com/markets/2017/12/19/france-passes-law-to-ban-all-oil-and-gas-production-by-2040.html) to ban all oil and gas production by 2020.
+France passed a [law](http://www.foxbusiness.com/markets/2017/12/19/france-passes-law-to-ban-all-oil-and-gas-production-by-2040.html) to ban all oil and gas production by 2020.
 
-The United Nations general assembly has voted to [reject](https://www.theguardian.com/world/2017/dec/21/united-nations-un-vote-donald-trump-jerusalem-israel?) Trump's proposition to recognize Jerusalem as the capital of Israel.
+The United Nations general assembly voted to [reject](https://www.theguardian.com/world/2017/dec/21/united-nations-un-vote-donald-trump-jerusalem-israel?) Trump's proposition to recognize Jerusalem as the capital of Israel.
 
-The #MeToo movement has [spread](http://www.asahi.com/ajw/articles/AJ201712220046.html) to Japan.
+The #MeToo movement [spread](http://www.asahi.com/ajw/articles/AJ201712220046.html) to Japan.
 
 A North Korean soldier [defected](http://english.yonhapnews.co.kr/news/2017/12/21/0200000000AEN20171221002500315.html) to South Korea via the land border.
 
@@ -26,7 +26,7 @@ The United Kingdom will [guarantee](http://thehill.com/news-by-subject/technolog
 
 The European Union will [regulate](https://www.bloomberg.com/news/articles/2017-12-20/uber-suffers-setback-at-top-eu-court-in-clash-with-cabbies) Uber like a standard taxi company.
 
-An Islamic preacher in Turkey says that men without bears [cause](http://www.hurriyetdailynews.com/islamic-preacher-in-turkey-says-men-without-beards-may-cause-indecent-thoughts-124306) "indecent thoughts" and cannot be distinguished from women. His comments sparked quick backlash from others in the Islamic community.
+An Islamic preacher in Turkey says that men without beards [cause](http://www.hurriyetdailynews.com/islamic-preacher-in-turkey-says-men-without-beards-may-cause-indecent-thoughts-124306) "indecent thoughts" and cannot be distinguished from women. His comments sparked quick backlash from others in the Islamic community.
 
 Trump put Pakistan ["on notice."](https://www.dawn.com/news/1378179)
 
@@ -38,7 +38,7 @@ Donald Trump's golf resort in Scotland [lost](https://www.theguardian.com/uk-new
 
 [What Putin Really Wants](https://www.theatlantic.com/magazine/archive/2018/01/putins-game/546548/) // Russia's strongman president has many Americans convinced of his manipulative genius. He's really just a gambler who won big.
 
-[Trump will personally save up to $15m under tax bill, analysis finds](https://www.theguardian.com/us-news/2017/dec/20/trump-tax-bill-savings-analysis) // Jared Kushner will save up to $12m, while five other members of Trump’s inner circle will also see benefits worth millions of dollars
+[Trump will personally save up to $15m under tax bill, analysis finds](https://www.theguardian.com/us-news/2017/dec/20/trump-tax-bill-savings-analysis) // Jared Kushner will save up to $12m, while five other members of Trump’s inner circle will also see benefits worth millions of dollars.
 
 [Can Trump Be Sued for Defamation?](http://www.motherjones.com/politics/2017/12/can-trump-be-sued-for-defamation/) // His lawyers say no, but the Supreme Court says yes—and so did Kellyanne Conway's husband.
 
