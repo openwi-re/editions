@@ -9,7 +9,7 @@ Preview: A major security vulnerability threatens nearly all computers, phones, 
 
 ![tehran.jpg](tehran.jpg)
 
-A university student in Tehran participates in a protest against Iran's president. This photo was obtained by AP, but taken by a person not employed by AP.
+A university student in Tehran participates in a protest against Iran's president.
 
 `AP`
 
