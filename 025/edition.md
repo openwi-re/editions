@@ -32,7 +32,7 @@ Facebook [explained](https://www.theguardian.com/us-news/2018/jan/04/facebook-ch
 
 Donald Trump and Rand Paul are pushing to [end](https://timesofindia.indiatimes.com/world/us/good-idea-trump-responds-to-senator-rand-pauls-proposal-to-stop-all-aid-to-pakistan/articleshow/62392171.cms) all aid to Pakistan.
 
-Russia [said](http://www.newsweek.com/russia-tells-us-back-iran-and-focus-ferguson-riots-and-occupy-wall-street-768949) that the United States can't criticize Iran because it crushed the Occupy Wall Street and Ferguson protests.
+Russia [said](http://www.newsweek.com/russia-tells-us-back-iran-and-focus-ferguson-riots-and-occupy-wall-street-768949) that the United States can't criticize Iran over its response to protests because it crushed the Occupy Wall Street and Ferguson protests.
 
 A new book on the first year of the Trump presidency [calls](https://www.theguardian.com/us-news/2018/jan/03/donald-trump-russia-steve-bannon-michael-wolff) Trump's actions 'treasonous.'
 
