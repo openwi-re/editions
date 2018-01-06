@@ -28,7 +28,7 @@ The ozone is slowly [returning](https://arstechnica.com/science/2018/01/new-meas
 
 China took further steps to improve its environmental footprint by [banning](https://www.autoblog.com/2017/12/29/china-smog-553-cars-banned/) 553 exhaust-heavy car models.
 
-Facebook [explained](https://www.theguardian.com/us-news/2018/jan/04/facebook-chechnya-ramzan-kadyrov-political-censorship) why it deleted some accounts, but not others.
+Facebook [explained](https://www.theguardian.com/us-news/2018/jan/04/facebook-chechnya-ramzan-kadyrov-political-censorship) why it deleted some accounts, but refused to explain why it deleted others.
 
 Donald Trump and Rand Paul are pushing to [end](https://timesofindia.indiatimes.com/world/us/good-idea-trump-responds-to-senator-rand-pauls-proposal-to-stop-all-aid-to-pakistan/articleshow/62392171.cms) all aid to Pakistan.
 
