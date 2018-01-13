@@ -1,8 +1,8 @@
 ---
 Edition: 26
 Release: January 13th, 2018
-Subject:
-Preview:
+Subject: Internet censorship & 'shithole' countries
+Preview: Amid protests, Iran’s government censored its critics with Chinese-style Internet control.
 ---
 
 ### Photo
