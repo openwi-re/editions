@@ -40,7 +40,7 @@ A suicide at a Chinese iPhone factory [reignited](http://www.telegraph.co.uk/new
 
 ### The Ideas
 
-[“We Don’t Consider You a Legitimate Journalist” — How I Got Blacklisted by the Pentagon’s Africa Command](https://theintercept.com/2018/01/13/we-dont-consider-you-a-legitimate-journalist-how-i-got-blacklisted-by-the-pentagons-africa-command/) // Nick Turse has reported extensively on secretive U.S. military operations -- which is apparently why Africa Command has tried to freeze him out.
+[“We Don’t Consider You a Legitimate Journalist” — How I Got Blacklisted by the Pentagon’s Africa Command](https://theintercept.com/2018/01/13/we-dont-consider-you-a-legitimate-journalist-how-i-got-blacklisted-by-the-pentagons-africa-command/) // Nick Turse has reported extensively on secretive U.S. military operations—which is apparently why Africa Command has tried to freeze him out.
 
 [The remarkable Republican underreaction on 'shithole'](http://www.cnn.com/2018/01/12/politics/shithole-comment-republican-reaction/index.html) // On Thursday afternoon, in a meeting on a potential deal on immigration, President Donald Trump disparaged immigrants from a numbers of countries including African nations and El Salvador.
 
