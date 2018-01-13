@@ -7,7 +7,7 @@ Preview:
 
 ### Photo
 
-![church.jpg](church.jpg)
+![president.jpg](president.jpg)
 
 'SHITHOLE PRESIDENT' projected on the San Francisco Federal Building following Donald Trump's remarks calling impoverished nations "shithole countries."
 
