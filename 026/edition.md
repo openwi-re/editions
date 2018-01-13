@@ -9,7 +9,7 @@ Preview: Amid protests, Iran’s government censored its critics with Chinese-st
 
 ![president.jpg](president.jpg)
 
-'SHITHOLE PRESIDENT' projected on the San Francisco Federal Building following Donald Trump's remarks calling impoverished nations "shithole countries."
+A projection on the San Francisco Federal Building following Donald Trump's remarks calling impoverished nations "shithole countries."
 
 `denolly on Reddit`
 
@@ -20,7 +20,7 @@ The United States ambassador to Panama [resigned](https://www.independent.co.uk/
 
 Jared Kusher [received](https://www.commondreams.org/news/2018/01/08/kushner-under-fire-receiving-30m-israeli-firm-while-shaping-middle-east-policy) $30 million dollars from an Israeli firm while shaping US Middle East policy.
 
-Belize [ended](https://www.ecowatch.com/belize-offshore-drilling-wwf-2522728566.html) its oil operations in its ocean water.
+Belize [ended](https://www.ecowatch.com/belize-offshore-drilling-wwf-2522728566.html) its ocean oil operations.
 
 Trump [derided](https://www.washingtonpost.com/politics/trump-attacks-protections-for-immigrants-from-shithole-countries-in-oval-office-meeting/2018/01/11/bfc0725c-f711-11e7-91af-31ac729add94_story.html) immigration from 'shithole' countries.
 
@@ -74,7 +74,7 @@ _See also: [In Praise of Leaks (Time Magazine)](http://time.com/5098422/in-prais
 [Meltdown Demonstration](https://github.com/IAIK/meltdown/) // A working demonstration of the Meltdown hack.
 
 ### The Long Read
-https://theintercept.com/2018/01/03/my-life-as-a-new-york-times-reporter-in-the-shadow-of-the-war-on-terror/ **Tonya Harding Would Like Her Apology Now**: "In the movie, “I, Tonya,” the disgraced figure skater looks back on the 1994 Nancy Kerrigan scandal and her struggles to tell her side of the story."
+https://www.nytimes.com/2018/01/10/movies/tonya-harding-i-tonya-nancy-kerrigan-scandal.html **Tonya Harding Would Like Her Apology Now**: "In the movie, “I, Tonya,” the disgraced figure skater looks back on the 1994 Nancy Kerrigan scandal and her struggles to tell her side of the story."
 
 ### Actionable
 https://www.battleforthenet.com/ Net Neutrality died. But we can bring it back. Help save the Internet.
