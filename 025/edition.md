@@ -1,6 +1,6 @@
 ---
 Edition: 25
-Release: January 6th, 2017
+Release: January 6th, 2018
 Subject: Korea talks, a bigger button, and a major glitch.
 Preview: A major security vulnerability threatens nearly all computers, phones, and servers. North Korea and South Korea are talking again.
 ---
@@ -38,7 +38,7 @@ A new book on the first year of the Trump presidency [calls](https://www.theguar
 
 France's president Emmanuelle Macron [announced](http://www.bbc.com/news/world-europe-42560688) a new 'fake news' law.
 
-Jeff Sessions made a [move](http://time.com/5088442/jeff-sessions-marijuana-legal/) to jeopardize the legal marijuana industry.
+Jeff Sessions [moved](http://time.com/5088442/jeff-sessions-marijuana-legal/) to jeopardize the legal marijuana industry.
 
 ### The Ideas
 
