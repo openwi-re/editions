@@ -14,11 +14,13 @@ Students protest education policies in Budapest, Hungary.
 `Bernadett Szabo / Reuters`
 
 ### As You Already Know
+The United States government [shut down](https://www.nytimes.com/reuters/2018/01/20/us/20reuters-usa-congress-shutdown.html).
+
 The Koreas will [march](http://www.bbc.com/news/world-asia-42721417) under a single flag at the 2018 Winter Olympics.
 
 The Vancouver Aquarium will no longer keep dolphins and whales in [captivity](http://www.cbc.ca/news/canada/british-columbia/vancouver-aquarium-will-no-longer-keep-whales-dolphins-in-captivity-1.4492316).
 
-China built a massive artificial [air purifier](http://www.scmp.com/news/china/society/article/2128355/china-builds-worlds-biggest-air-purifier-and-it-seems-be-working).
+China built a massive artificial [air purifier](http://www.scmp.com/news/china/society/article/2128355/china-builds-worlds-biggest-air-purifier-and-it-seems-be-working) (and it works).
 
 The Trump Administration [barred](https://www.reuters.com/article/us-usa-immigration-haiti/trump-administration-bars-haitians-from-u-s-visas-for-low-skilled-work-idUSKBN1F702O) Haitians from receiving visas for low-skilled work.
 
