@@ -18,7 +18,7 @@ Amid protests, Iran’s government [censored](https://theintercept.com/2018/01/1
 
 The United States ambassador to Panama [resigned](https://www.independent.co.uk/news/world/americas/us-ambassador-panama-resigns-donald-trump-john-feeley-not-work-president-a8156116.html), saying that he can "no longer work for Trump."
 
-Jared Kusher [received](https://www.commondreams.org/news/2018/01/08/kushner-under-fire-receiving-30m-israeli-firm-while-shaping-middle-east-policy) $30 million dollars from an Israeli firm while shaping US Middle East policy.
+Jared Kushner [received](https://www.commondreams.org/news/2018/01/08/kushner-under-fire-receiving-30m-israeli-firm-while-shaping-middle-east-policy) $30 million dollars from an Israeli firm while shaping US Middle East policy.
 
 Belize [ended](https://www.ecowatch.com/belize-offshore-drilling-wwf-2522728566.html) its ocean oil operations.
 
