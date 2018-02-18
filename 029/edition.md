@@ -31,7 +31,7 @@ A Puerto Rican utility company [announced](http://abcnews.go.com/US/electricity-
 
 China [reassigned](https://www.independent.co.uk/news/world/asia/china-tree-plant-soldiers-reassign-climate-change-global-warming-deforestation-a8208836.html) 60,000 soldiers to plant trees in a bid to fight pollution.
 
-A Russian jet carrying 71 people [crashed](https://www.bbc.co.uk/news/amp/world-europe-43024235?__twitter_impression=true) after Moscow take-off.
+A Russian jet carrying 71 people [crashed](https://www.bbc.co.uk/news/amp/world-europe-43024235?__twitter_impression=true) after a Moscow take-off.
 
 ### The Ideas
 
@@ -65,7 +65,7 @@ Nine ways to have a healthier relationship with your phone.
 
 ### The Web
 
-[A Spacecraft For All](http://spacecraftforall.com/) // Launch into space with a Chrome Experiment that follows the entire 36-year- long odyssey of the ISEE-3. See its entire path as an interactive documentary, read its instruments, and view its live trajectory and position as it flies through interplanetary space. spacecraftforall.com
+[A Spacecraft For All](http://spacecraftforall.com/) // Launch into space with a Chrome Experiment that follows the entire 36-year-long odyssey of the ISEE-3. See its entire path as an interactive documentary, read its instruments, and view its live trajectory and position as it flies through interplanetary space.
 
 ### The Long Read
 http://wheels.org/spacewar/stone/rolling_stone.html **Spacewar: Fanatic Life and Symbolic Death Among the Computer Bums**: Developed by early computer engineers in their spare time, improved in University comp-sci labs, and ultimately sold in coffeeshops for ten cents per game. Inside one of the most influential games ever played.
