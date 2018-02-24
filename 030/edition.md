@@ -22,7 +22,7 @@ Former Trump campaign official Rick Gates [pleaded](https://www.cnbc.com/2018/02
 
 Anti-gay 'vote Putin' video went [viral](http://www.france24.com/en/20180219-anti-gay-vote-putin-video-goes-viral-russia) in Russia.
 
-The German government [confirmed](http://www.dw.com/en/germany-confirms-2017-surplus-and-gdp-growth/a-42706491) that in 2017 it had both a surplus and strong GDP growth.
+The German government [confirmed](http://www.dw.com/en/germany-confirms-2017-surplus-and-gdp-growth/a-42706491) that in 2017 it had both a budget surplus and strong GDP growth.
 
 Taiwan will [ban](https://www.hongkongfp.com/2018/02/22/taiwan-ban-single-use-plastic-drinking-straws-plastic-bags-disposable-utensils-entirely-2030/) single-use plastic drinking straws, plastic bags, and disposable utensils entirely by 2030.
 
@@ -48,11 +48,11 @@ Signal, the "gold standard" encrypted messenger, [received](https://signal.org/b
 
 ### The Leaks
 
-<center>
+<p align="center">
 
 _No relevant leaks this week._
 
-</center>
+</p>
 
 ### The Glitch
 [Mozilla v FCC: Mozilla Re-files Suit Against FCC to Protect Net Neutrality](https://blog.mozilla.org/blog/2018/02/22/mozilla-v-fcc-mozilla-re-files-suit-fcc-protect-net-neutrality/) //
