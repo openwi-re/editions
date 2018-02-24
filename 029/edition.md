@@ -1,6 +1,6 @@
 ---
 Edition: 29
-Release: January 28th, 2018
+Release: February 17th, 2018
 Subject: Germany declares Facebook's actions illegal.
 Preview: PLUS: a suspicious real-estate sale. Jacob Zuma. And a new Dutch law that makes every adult an organ donor.
 ---
