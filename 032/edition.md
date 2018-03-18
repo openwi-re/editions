@@ -1,8 +1,8 @@
 ---
 Edition: 32
 Release: March 18th, 2018
-Subject:
-Preview:
+Subject: Russia in the U.S., Russia in the U.K.
+Preview: ...and a Trump associate was charged with child porn convictions.
 ---
 
 ### Photo
