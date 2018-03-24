@@ -7,7 +7,7 @@ Preview: Facebook is harvests your attention and personal information. It's time
 
 ### Photo
 
-![spongebob.jpg](spongebob.jpg)
+![spongebob.jpg](spongebob.jpeg)
 A protester holds up a sign saying sarcastically that "the U.S. doesn't have a gun problem" during the March for our Lives in Boston, MA.
 
 `Miles McCain / OPENWIRE`
