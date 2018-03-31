@@ -6,7 +6,7 @@ Preview: When China banned discussion of Kim Jong Un online, the people found an
 ---
 
 ### Photo
-![clark.jpg](clark.jpeg)
+![clark.jpg](clark.jpg)
 Stevante Clark, brother of Stephon Clark, disrupts a special city-council meeting at Sacramento City Hall on March 27, 2018, in Sacramento, California. Hundreds packed a special city-council meeting at Sacramento City Hall to address concerns over the shooting death of Stephon Clark by Sacramento police. (via the Atlantic)
 
 `Justin Sullivan / Getty`
